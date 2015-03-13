@@ -1,0 +1,1371 @@
+lfo,NAICS,NAICSdes,ENTERPRISESIZE,numberoffirms,numberofestablishments,employment,payroll
+1:  Total,--,Total,1:   Total,5684424,7354043,113425965,5164897905
+1:  Total,--,Total,2:   0-4,3532058,3540155,5857662,230422086
+1:  Total,--,Total,3:   5-9,978993,993101,6431931,218085669
+1:  Total,--,Total,4:   10-19,592963,626981,7961281,284251614
+1:  Total,--,Total,5:   <20,5104014,5160237,20250874,732759369
+1:  Total,--,Total,6:   20-99,481496,651624,18880001,746085051
+1:  Total,--,Total,7:   100-499,81243,350197,15867437,690509553
+1:  Total,--,Total,8:   <500,5666753,6162058,54998312,2169353973
+1:  Total,--,Total,9:   500+,17671,1191985,58427653,2995543932
+1:  Total,11,"Agriculture, forestry, fishing and hunting",1:   Total,20642,21340,156520,5483338
+1:  Total,11,"Agriculture, forestry, fishing and hunting",2:   0-4,14281,14285,21291,805270
+1:  Total,11,"Agriculture, forestry, fishing and hunting",3:   5-9,3371,3374,21976,738713
+1:  Total,11,"Agriculture, forestry, fishing and hunting",4:   10-19,1669,1678,21812,781785
+1:  Total,11,"Agriculture, forestry, fishing and hunting",5:   <20,19321,19337,65079,2325768
+1:  Total,11,"Agriculture, forestry, fishing and hunting",6:   20-99,1007,1114,36542,1327294
+1:  Total,11,"Agriculture, forestry, fishing and hunting",7:   100-499,220,462,29970,933605
+1:  Total,11,"Agriculture, forestry, fishing and hunting",8:   <500,20548,20913,131591,4586667
+1:  Total,11,"Agriculture, forestry, fishing and hunting",9:   500+,94,427,24929,896671
+1:  Total,21,"Mining, quarrying, and oil and gas extraction",1:   Total,21408,28022,651204,55253170
+1:  Total,21,"Mining, quarrying, and oil and gas extraction",2:   0-4,12411,12436,19653,1399273
+1:  Total,21,"Mining, quarrying, and oil and gas extraction",3:   5-9,3206,3245,21170,1245990
+1:  Total,21,"Mining, quarrying, and oil and gas extraction",4:   10-19,2340,2410,31710,2000929
+1:  Total,21,"Mining, quarrying, and oil and gas extraction",5:   <20,17957,18091,72533,4646192
+1:  Total,21,"Mining, quarrying, and oil and gas extraction",6:   20-99,2472,3030,93591,6489421
+1:  Total,21,"Mining, quarrying, and oil and gas extraction",7:   100-499,631,1428,97067,7768947
+1:  Total,21,"Mining, quarrying, and oil and gas extraction",8:   <500,21060,22549,263191,18904560
+1:  Total,21,"Mining, quarrying, and oil and gas extraction",9:   500+,348,5473,388013,36348610
+1:  Total,22,Utilities,1:   Total,5824,17634,639795,57908862
+1:  Total,22,Utilities,2:   0-4,3037,3045,5918,221219
+1:  Total,22,Utilities,3:   5-9,969,998,6268,270549
+1:  Total,22,Utilities,4:   10-19,451,508,6102,349418
+1:  Total,22,Utilities,5:   <20,4457,4551,18288,841186
+1:  Total,22,Utilities,6:   20-99,883,1457,39380,2629652
+1:  Total,22,Utilities,7:   100-499,296,1283,51595,3945791
+1:  Total,22,Utilities,8:   <500,5636,7291,109263,7416629
+1:  Total,22,Utilities,9:   500+,188,10343,530532,50492233
+1:  Total,23,Construction,1:   Total,645240,657738,5190921,265212405
+1:  Total,23,Construction,2:   0-4,447220,447270,685944,26227662
+1:  Total,23,Construction,3:   5-9,96802,96877,632150,24628742
+1:  Total,23,Construction,4:   10-19,55488,55702,741651,33057565
+1:  Total,23,Construction,5:   <20,599510,599849,2059745,83913969
+1:  Total,23,Construction,6:   20-99,40140,41803,1505888,79106454
+1:  Total,23,Construction,7:   100-499,4683,7548,777671,46108394
+1:  Total,23,Construction,8:   <500,644333,649200,4343304,209128817
+1:  Total,23,Construction,9:   500+,907,8538,847617,56083588
+1:  Total,31-33,Manufacturing,1:   Total,254941,295643,10984361,574817032
+1:  Total,31-33,Manufacturing,2:   0-4,107256,107310,199391,7962259
+1:  Total,31-33,Manufacturing,3:   5-9,47315,47392,315447,11199756
+1:  Total,31-33,Manufacturing,4:   10-19,38587,38957,526410,20803180
+1:  Total,31-33,Manufacturing,5:   <20,193158,193659,1041248,39965195
+1:  Total,31-33,Manufacturing,6:   20-99,46589,50358,1904123,84685251
+1:  Total,31-33,Manufacturing,7:   100-499,11670,20258,2027984,96886191
+1:  Total,31-33,Manufacturing,8:   <500,251417,264275,4973355,221536637
+1:  Total,31-33,Manufacturing,9:   500+,3524,31368,6011006,353280395
+1:  Total,42,Wholesale trade,1:   Total,309146,411930,5626328,357174936
+1:  Total,42,Wholesale trade,2:   0-4,177644,178456,302328,14995065
+1:  Total,42,Wholesale trade,3:   5-9,52352,53711,344359,16768229
+1:  Total,42,Wholesale trade,4:   10-19,35739,38923,476565,24591182
+1:  Total,42,Wholesale trade,5:   <20,265735,271090,1123252,56354476
+1:  Total,42,Wholesale trade,6:   20-99,33221,47961,1232991,67421116
+1:  Total,42,Wholesale trade,7:   100-499,7376,28004,976954,57047709
+1:  Total,42,Wholesale trade,8:   <500,306332,347055,3333197,180823301
+1:  Total,42,Wholesale trade,9:   500+,2814,64875,2293131,176351635
+1:  Total,44-45,Retail trade,1:   Total,654293,1062942,14698563,370744661
+1:  Total,44-45,Retail trade,2:   0-4,394906,396763,738395,17837618
+1:  Total,44-45,Retail trade,3:   5-9,132893,136686,874906,20471160
+1:  Total,44-45,Retail trade,4:   10-19,70413,78936,928490,24092417
+1:  Total,44-45,Retail trade,5:   <20,598212,612385,2541791,62401195
+1:  Total,44-45,Retail trade,6:   20-99,46594,77127,1738755,56304413
+1:  Total,44-45,Retail trade,7:   100-499,7403,46283,1063111,36023549
+1:  Total,44-45,Retail trade,8:   <500,652209,735795,5343657,154729157
+1:  Total,44-45,Retail trade,9:   500+,2084,327147,9354906,216015504
+1:  Total,48-49,Transportation and warehousing,1:   Total,164921,211854,4106359,175972729
+1:  Total,48-49,Transportation and warehousing,2:   0-4,106231,106402,159135,5765261
+1:  Total,48-49,Transportation and warehousing,3:   5-9,23574,23821,154994,5311653
+1:  Total,48-49,Transportation and warehousing,4:   10-19,15550,16168,207552,7374172
+1:  Total,48-49,Transportation and warehousing,5:   <20,145355,146391,521681,18451086
+1:  Total,48-49,Transportation and warehousing,6:   20-99,13919,17339,521080,20131529
+1:  Total,48-49,Transportation and warehousing,7:   100-499,3499,9877,469668,19138273
+1:  Total,48-49,Transportation and warehousing,8:   <500,162773,173607,1512429,57720888
+1:  Total,48-49,Transportation and warehousing,9:   500+,2148,38247,2593930,118251841
+1:  Total,51,Information,1:   Total,69439,134452,3121317,234013645
+1:  Total,51,Information,2:   0-4,42088,42185,61909,4512928
+1:  Total,51,Information,3:   5-9,9916,10035,65587,3055810
+1:  Total,51,Information,4:   10-19,7249,7626,97274,4867324
+1:  Total,51,Information,5:   <20,59253,59846,224770,12436062
+1:  Total,51,Information,6:   20-99,7342,9732,287734,17501331
+1:  Total,51,Information,7:   100-499,1842,5897,309715,21869521
+1:  Total,51,Information,8:   <500,68437,75475,822219,51806914
+1:  Total,51,Information,9:   500+,1002,58977,2299098,182206731
+1:  Total,52,Finance and insurance,1:   Total,233563,467537,5886602,493582887
+1:  Total,52,Finance and insurance,2:   0-4,168579,169300,297078,13725217
+1:  Total,52,Finance and insurance,3:   5-9,32386,33793,205489,11344768
+1:  Total,52,Finance and insurance,4:   10-19,13746,17029,181803,13212770
+1:  Total,52,Finance and insurance,5:   <20,214711,220122,684370,38282755
+1:  Total,52,Finance and insurance,6:   20-99,13476,32857,549224,42149099
+1:  Total,52,Finance and insurance,7:   100-499,3824,35229,682656,53939471
+1:  Total,52,Finance and insurance,8:   <500,232011,288208,1916250,134371325
+1:  Total,52,Finance and insurance,9:   500+,1552,179329,3970352,359211562
+1:  Total,53,Real estate and rental and leasing,1:   Total,262986,341683,1917640,84019301
+1:  Total,53,Real estate and rental and leasing,2:   0-4,206130,206912,305308,10820674
+1:  Total,53,Real estate and rental and leasing,3:   5-9,29873,31104,191995,6849491
+1:  Total,53,Real estate and rental and leasing,4:   10-19,13847,16068,180373,7024269
+1:  Total,53,Real estate and rental and leasing,5:   <20,249850,254084,677676,24694434
+1:  Total,53,Real estate and rental and leasing,6:   20-99,9742,18435,350710,15363306
+1:  Total,53,Real estate and rental and leasing,7:   100-499,2292,16729,284825,13118370
+1:  Total,53,Real estate and rental and leasing,8:   <500,261884,289248,1313211,53176110
+1:  Total,53,Real estate and rental and leasing,9:   500+,1102,52435,604429,30843191
+1:  Total,54,"Professional, scientific, and technical services",1:   Total,765751,850903,7929910,568030407
+1:  Total,54,"Professional, scientific, and technical services",2:   0-4,565855,566328,842278,44721957
+1:  Total,54,"Professional, scientific, and technical services",3:   5-9,98375,99179,641364,33315748
+1:  Total,54,"Professional, scientific, and technical services",4:   10-19,54325,56632,722853,42104648
+1:  Total,54,"Professional, scientific, and technical services",5:   <20,718555,722139,2206495,120142353
+1:  Total,54,"Professional, scientific, and technical services",6:   20-99,37691,48822,1411755,100080157
+1:  Total,54,"Professional, scientific, and technical services",7:   100-499,6579,18996,1064266,81591903
+1:  Total,54,"Professional, scientific, and technical services",8:   <500,762825,789957,4682516,301814413
+1:  Total,54,"Professional, scientific, and technical services",9:   500+,2926,60946,3247394,266215994
+1:  Total,55,Management of companies and enterprises,1:   Total,27017,49497,2921669,298818562
+1:  Total,55,Management of companies and enterprises,2:   0-4,2895,2922,3808,544631
+1:  Total,55,Management of companies and enterprises,3:   5-9,792,806,3633,382693
+1:  Total,55,Management of companies and enterprises,4:   10-19,1152,1184,6898,581556
+1:  Total,55,Management of companies and enterprises,5:   <20,4839,4912,14339,1508880
+1:  Total,55,Management of companies and enterprises,6:   20-99,5848,6049,70518,4928037
+1:  Total,55,Management of companies and enterprises,7:   100-499,8957,10080,289153,21177017
+1:  Total,55,Management of companies and enterprises,8:   <500,19644,21041,374010,27613934
+1:  Total,55,Management of companies and enterprises,9:   500+,7373,28456,2547659,271204628
+1:  Total,56,Administrative and support and waste management and remediation services,1:   Total,321090,380671,9389950,326263747
+1:  Total,56,Administrative and support and waste management and remediation services,2:   0-4,208130,208319,312364,12381559
+1:  Total,56,Administrative and support and waste management and remediation services,3:   5-9,46752,47022,306627,9888031
+1:  Total,56,Administrative and support and waste management and remediation services,4:   10-19,28662,29302,385923,13072946
+1:  Total,56,Administrative and support and waste management and remediation services,5:   <20,283544,284643,1004914,35342536
+1:  Total,56,Administrative and support and waste management and remediation services,6:   20-99,26452,30036,1059235,36871739
+1:  Total,56,Administrative and support and waste management and remediation services,7:   100-499,7662,13841,1356393,41262237
+1:  Total,56,Administrative and support and waste management and remediation services,8:   <500,317658,328520,3420542,113476512
+1:  Total,56,Administrative and support and waste management and remediation services,9:   500+,3432,52151,5969408,212787235
+1:  Total,61,Educational services,1:   Total,80725,91492,3386047,115171252
+1:  Total,61,Educational services,2:   0-4,39752,39806,62189,2051798
+1:  Total,61,Educational services,3:   5-9,12386,12453,82849,1807978
+1:  Total,61,Educational services,4:   10-19,10430,10737,141879,3075871
+1:  Total,61,Educational services,5:   <20,62568,62996,286917,6935647
+1:  Total,61,Educational services,6:   20-99,13561,15017,568468,16176552
+1:  Total,61,Educational services,7:   100-499,3313,5773,580180,19790678
+1:  Total,61,Educational services,8:   <500,79442,83786,1435565,42902877
+1:  Total,61,Educational services,9:   500+,1283,7706,1950482,72268375
+1:  Total,62,Health care and social assistance,1:   Total,633578,818726,18059112,780131324
+1:  Total,62,Health care and social assistance,2:   0-4,323126,323853,600119,30779285
+1:  Total,62,Health care and social assistance,3:   5-9,145052,146307,958313,39217222
+1:  Total,62,Health care and social assistance,4:   10-19,82540,86307,1098377,46379775
+1:  Total,62,Health care and social assistance,5:   <20,550718,556467,2656809,116376282
+1:  Total,62,Health care and social assistance,6:   20-99,61766,86450,2470025,97564912
+1:  Total,62,Health care and social assistance,7:   100-499,16983,68177,3274992,109128942
+1:  Total,62,Health care and social assistance,8:   <500,629467,711094,8401826,323070136
+1:  Total,62,Health care and social assistance,9:   500+,4111,107632,9657286,457061188
+1:  Total,71,"Arts, entertainment, and recreation",1:   Total,113885,123327,2003129,63571818
+1:  Total,71,"Arts, entertainment, and recreation",2:   0-4,72121,72239,94859,8196971
+1:  Total,71,"Arts, entertainment, and recreation",3:   5-9,15191,15307,99658,2774351
+1:  Total,71,"Arts, entertainment, and recreation",4:   10-19,11345,11582,153054,3490777
+1:  Total,71,"Arts, entertainment, and recreation",5:   <20,98657,99128,347571,14462099
+1:  Total,71,"Arts, entertainment, and recreation",6:   20-99,11965,13069,480982,10864664
+1:  Total,71,"Arts, entertainment, and recreation",7:   100-499,2525,4220,431894,16409097
+1:  Total,71,"Arts, entertainment, and recreation",8:   <500,113147,116417,1260447,41735860
+1:  Total,71,"Arts, entertainment, and recreation",9:   500+,738,6910,742682,21835958
+1:  Total,72,Accommodation and food services,1:   Total,486356,649011,11556285,194214029
+1:  Total,72,Accommodation and food services,2:   0-4,202026,202421,337984,8226881
+1:  Total,72,Accommodation and food services,3:   5-9,96980,97493,647034,8483866
+1:  Total,72,Accommodation and food services,4:   10-19,90469,92127,1231786,16574671
+1:  Total,72,Accommodation and food services,5:   <20,389475,392041,2216804,33285418
+1:  Total,72,Accommodation and food services,6:   20-99,86535,101042,3178138,48709364
+1:  Total,72,Accommodation and food services,7:   100-499,8355,40253,1514619,24290937
+1:  Total,72,Accommodation and food services,8:   <500,484365,533336,6909561,106285719
+1:  Total,72,Accommodation and food services,9:   500+,1991,115675,4646724,87928310
+1:  Total,81,Other services (except public administration),1:   Total,660879,722398,5181801,144225641
+1:  Total,81,Other services (except public administration),2:   0-4,422620,423126,793176,18998843
+1:  Total,81,Other services (except public administration),3:   5-9,132032,133138,855879,20306976
+1:  Total,81,Other services (except public administration),4:   10-19,62288,65019,819680,20807249
+1:  Total,81,Other services (except public administration),5:   <20,616940,621283,2468735,60113068
+1:  Total,81,Other services (except public administration),6:   20-99,38448,49906,1380267,37773369
+1:  Total,81,Other services (except public administration),7:   100-499,4169,15859,584724,20078921
+1:  Total,81,Other services (except public administration),8:   <500,659557,687048,4433726,117965358
+1:  Total,81,Other services (except public administration),9:   500+,1322,35350,748075,26260283
+1:  Total,99,Industries not classified,1:   Total,17243,17243,0,288159
+1:  Total,99,Industries not classified,2:   0-4,16777,16777,0,247715
+1:  Total,99,Industries not classified,3:   5-9,360,360,2233,23943
+1:  Total,99,Industries not classified,4:   10-19,86,86,1089,9110
+1:  Total,99,Industries not classified,5:   <20,17223,17223,0,280768
+1:  Total,99,Industries not classified,6:   20-99,20,20,595,7391
+1:  Total,99,Industries not classified,8:   <500,17243,17243,0,288159
+2:  Corporation,--,Total,1:   Total,1200746,2290410,52903247,2827367487
+2:  Corporation,--,Total,2:   0-4,670786,673850,1130748,57842926
+2:  Corporation,--,Total,3:   5-9,218013,223528,1442368,60403918
+2:  Corporation,--,Total,4:   10-19,148104,160676,1995472,88709839
+2:  Corporation,--,Total,5:   <20,1036903,1058054,4568588,206956683
+2:  Corporation,--,Total,6:   20-99,128726,188361,5030238,251539517
+2:  Corporation,--,Total,7:   100-499,25683,118693,4755594,264419650
+2:  Corporation,--,Total,8:   <500,1191312,1365108,14354420,722915850
+2:  Corporation,--,Total,9:   500+,9434,925302,38548827,2104451637
+2:  Corporation,11,"Agriculture, forestry, fishing and hunting",1:   Total,3919,4292,47830,1957557
+2:  Corporation,11,"Agriculture, forestry, fishing and hunting",2:   0-4,2199,2202,3646,162360
+2:  Corporation,11,"Agriculture, forestry, fishing and hunting",3:   5-9,788,790,5144,199041
+2:  Corporation,11,"Agriculture, forestry, fishing and hunting",4:   10-19,466,467,6189,235840
+2:  Corporation,11,"Agriculture, forestry, fishing and hunting",5:   <20,3453,3459,14979,597241
+2:  Corporation,11,"Agriculture, forestry, fishing and hunting",6:   20-99,328,377,12061,469695
+2:  Corporation,11,"Agriculture, forestry, fishing and hunting",7:   100-499,79,141,9688,318391
+2:  Corporation,11,"Agriculture, forestry, fishing and hunting",8:   <500,3860,3977,36728,1385327
+2:  Corporation,11,"Agriculture, forestry, fishing and hunting",9:   500+,59,315,11102,572230
+2:  Corporation,21,"Mining, quarrying, and oil and gas extraction",1:   Total,6543,11579,430795,39779751
+2:  Corporation,21,"Mining, quarrying, and oil and gas extraction",2:   0-4,3186,3197,5451,527486
+2:  Corporation,21,"Mining, quarrying, and oil and gas extraction",3:   5-9,1037,1056,6815,473187
+2:  Corporation,21,"Mining, quarrying, and oil and gas extraction",4:   10-19,796,832,10816,761090
+2:  Corporation,21,"Mining, quarrying, and oil and gas extraction",5:   <20,5019,5085,23082,1761763
+2:  Corporation,21,"Mining, quarrying, and oil and gas extraction",6:   20-99,917,1151,33328,2564626
+2:  Corporation,21,"Mining, quarrying, and oil and gas extraction",7:   100-499,321,813,46506,4148490
+2:  Corporation,21,"Mining, quarrying, and oil and gas extraction",8:   <500,6257,7049,102916,8474879
+2:  Corporation,21,"Mining, quarrying, and oil and gas extraction",9:   500+,286,4530,327879,31304872
+2:  Corporation,22,Utilities,1:   Total,1544,11721,536548,50520384
+2:  Corporation,22,Utilities,2:   0-4,789,793,1495,60715
+2:  Corporation,22,Utilities,3:   5-9,227,237,1494,71679
+2:  Corporation,22,Utilities,4:   10-19,109,124,1371,94894
+2:  Corporation,22,Utilities,5:   <20,1125,1154,4360,227288
+2:  Corporation,22,Utilities,6:   20-99,154,246,5392,438037
+2:  Corporation,22,Utilities,7:   100-499,98,501,15812,1355348
+2:  Corporation,22,Utilities,8:   <500,1377,1901,25564,2020673
+2:  Corporation,22,Utilities,9:   500+,167,9820,510984,48499711
+2:  Corporation,23,Construction,1:   Total,137339,145494,1818825,101836009
+2:  Corporation,23,Construction,2:   0-4,80910,80923,131076,5912422
+2:  Corporation,23,Construction,3:   5-9,24327,24356,161190,6908785
+2:  Corporation,23,Construction,4:   10-19,16765,16867,225929,10686265
+2:  Corporation,23,Construction,5:   <20,122002,122146,518195,23507472
+2:  Corporation,23,Construction,6:   20-99,13075,13697,483487,25649120
+2:  Corporation,23,Construction,7:   100-499,1670,2935,257671,15269497
+2:  Corporation,23,Construction,8:   <500,136747,138778,1259353,64426089
+2:  Corporation,23,Construction,9:   500+,592,6716,559472,37409920
+2:  Corporation,31-33,Manufacturing,1:   Total,85765,115038,7151049,406976997
+2:  Corporation,31-33,Manufacturing,2:   0-4,28802,28825,55652,2862862
+2:  Corporation,31-33,Manufacturing,3:   5-9,15871,15911,106654,4182680
+2:  Corporation,31-33,Manufacturing,4:   10-19,14335,14517,195655,8274552
+2:  Corporation,31-33,Manufacturing,5:   <20,59008,59253,357961,15320094
+2:  Corporation,31-33,Manufacturing,6:   20-99,18264,19913,738199,34325647
+2:  Corporation,31-33,Manufacturing,7:   100-499,5696,10167,977863,50185206
+2:  Corporation,31-33,Manufacturing,8:   <500,82968,89333,2074023,99830947
+2:  Corporation,31-33,Manufacturing,9:   500+,2797,25705,5077026,307146050
+2:  Corporation,42,Wholesale trade,1:   Total,111989,182762,3206280,230411033
+2:  Corporation,42,Wholesale trade,2:   0-4,58162,58532,104409,5744325
+2:  Corporation,42,Wholesale trade,3:   5-9,20302,21013,133531,6946547
+2:  Corporation,42,Wholesale trade,4:   10-19,14439,15952,191587,10358717
+2:  Corporation,42,Wholesale trade,5:   <20,92903,95497,429527,23049589
+2:  Corporation,42,Wholesale trade,6:   20-99,13337,19757,479915,27446356
+2:  Corporation,42,Wholesale trade,7:   100-499,3506,12895,418202,27584644
+2:  Corporation,42,Wholesale trade,8:   <500,109746,128149,1327644,78080589
+2:  Corporation,42,Wholesale trade,9:   500+,2243,54613,1878636,152330444
+2:  Corporation,44-45,Retail trade,1:   Total,162068,471810,9706673,233317378
+2:  Corporation,44-45,Retail trade,2:   0-4,89765,90428,168577,4559587
+2:  Corporation,44-45,Retail trade,3:   5-9,33764,35244,223010,6007320
+2:  Corporation,44-45,Retail trade,4:   10-19,20574,23781,271316,7935702
+2:  Corporation,44-45,Retail trade,5:   <20,144103,149453,662903,18502609
+2:  Corporation,44-45,Retail trade,6:   20-99,14267,25388,506713,16398173
+2:  Corporation,44-45,Retail trade,7:   100-499,2382,16033,312724,10599935
+2:  Corporation,44-45,Retail trade,8:   <500,160752,190874,1482340,45500717
+2:  Corporation,44-45,Retail trade,9:   500+,1316,280936,8224333,187816661
+2:  Corporation,48-49,Transportation and warehousing,1:   Total,44222,79299,2776227,125680588
+2:  Corporation,48-49,Transportation and warehousing,2:   0-4,23870,23939,37065,1539103
+2:  Corporation,48-49,Transportation and warehousing,3:   5-9,6828,6928,45096,1654082
+2:  Corporation,48-49,Transportation and warehousing,4:   10-19,5093,5372,67917,2539625
+2:  Corporation,48-49,Transportation and warehousing,5:   <20,35791,36239,150078,5732810
+2:  Corporation,48-49,Transportation and warehousing,6:   20-99,5280,6816,195489,7817541
+2:  Corporation,48-49,Transportation and warehousing,7:   100-499,1584,4834,201500,8537692
+2:  Corporation,48-49,Transportation and warehousing,8:   <500,42655,47889,547067,22088043
+2:  Corporation,48-49,Transportation and warehousing,9:   500+,1567,31410,2229160,103592545
+2:  Corporation,51,Information,1:   Total,21400,75771,2315929,188692027
+2:  Corporation,51,Information,2:   0-4,10953,10991,16402,1724324
+2:  Corporation,51,Information,3:   5-9,3021,3076,20115,1150548
+2:  Corporation,51,Information,4:   10-19,2512,2664,33683,1990962
+2:  Corporation,51,Information,5:   <20,16486,16731,70200,4865834
+2:  Corporation,51,Information,6:   20-99,3067,4147,121349,8799594
+2:  Corporation,51,Information,7:   100-499,1050,3204,170531,14498337
+2:  Corporation,51,Information,8:   <500,20603,24082,362080,28163765
+2:  Corporation,51,Information,9:   500+,797,51689,1953849,160528262
+2:  Corporation,52,Finance and insurance,1:   Total,49927,236390,4447536,376795088
+2:  Corporation,52,Finance and insurance,2:   0-4,27526,27809,49379,2932292
+2:  Corporation,52,Finance and insurance,3:   5-9,7773,8280,50204,3199153
+2:  Corporation,52,Finance and insurance,4:   10-19,4619,5884,61141,4332355
+2:  Corporation,52,Finance and insurance,5:   <20,39918,41973,160724,10463800
+2:  Corporation,52,Finance and insurance,6:   20-99,6397,17470,270838,17915995
+2:  Corporation,52,Finance and insurance,7:   100-499,2351,23111,404343,27620228
+2:  Corporation,52,Finance and insurance,8:   <500,48666,82554,835905,56000023
+2:  Corporation,52,Finance and insurance,9:   500+,1261,153836,3611631,320795065
+2:  Corporation,53,Real estate and rental and leasing,1:   Total,48685,92524,739461,36584148
+2:  Corporation,53,Real estate and rental and leasing,2:   0-4,35250,35437,54091,2362961
+2:  Corporation,53,Real estate and rental and leasing,3:   5-9,6043,6372,38697,1572445
+2:  Corporation,53,Real estate and rental and leasing,4:   10-19,3180,3744,40724,1737382
+2:  Corporation,53,Real estate and rental and leasing,5:   <20,44473,45553,133512,5672788
+2:  Corporation,53,Real estate and rental and leasing,6:   20-99,2687,5069,90260,4499581
+2:  Corporation,53,Real estate and rental and leasing,7:   100-499,824,5173,85097,4420099
+2:  Corporation,53,Real estate and rental and leasing,8:   <500,47984,55795,308869,14592468
+2:  Corporation,53,Real estate and rental and leasing,9:   500+,701,36729,430592,21991680
+2:  Corporation,54,"Professional, scientific, and technical services",1:   Total,146451,204375,3626949,302677017
+2:  Corporation,54,"Professional, scientific, and technical services",2:   0-4,94283,94491,142472,10615613
+2:  Corporation,54,"Professional, scientific, and technical services",3:   5-9,20969,21289,138146,9123265
+2:  Corporation,54,"Professional, scientific, and technical services",4:   10-19,13663,14470,183402,13239165
+2:  Corporation,54,"Professional, scientific, and technical services",5:   <20,128915,130250,464020,32978043
+2:  Corporation,54,"Professional, scientific, and technical services",6:   20-99,12473,16406,482775,41090835
+2:  Corporation,54,"Professional, scientific, and technical services",7:   100-499,3038,8710,465514,41378796
+2:  Corporation,54,"Professional, scientific, and technical services",8:   <500,144426,155366,1412309,115447674
+2:  Corporation,54,"Professional, scientific, and technical services",9:   500+,2025,49009,2214640,187229343
+2:  Corporation,55,Management of companies and enterprises,1:   Total,12321,31009,2131746,240527725
+2:  Corporation,55,Management of companies and enterprises,2:   0-4,1373,1389,1869,355011
+2:  Corporation,55,Management of companies and enterprises,3:   5-9,352,362,1543,210583
+2:  Corporation,55,Management of companies and enterprises,4:   10-19,476,496,2823,300152
+2:  Corporation,55,Management of companies and enterprises,5:   <20,2201,2247,6235,865746
+2:  Corporation,55,Management of companies and enterprises,6:   20-99,2280,2369,27815,2219159
+2:  Corporation,55,Management of companies and enterprises,7:   100-499,3352,3860,122891,11291230
+2:  Corporation,55,Management of companies and enterprises,8:   <500,7833,8476,156941,14376135
+2:  Corporation,55,Management of companies and enterprises,9:   500+,4488,22533,1974805,226151590
+2:  Corporation,56,Administrative and support and waste management and remediation services,1:   Total,66002,106441,4533699,176609396
+2:  Corporation,56,Administrative and support and waste management and remediation services,2:   0-4,37132,37213,56010,2858653
+2:  Corporation,56,Administrative and support and waste management and remediation services,3:   5-9,10042,10157,66286,2488223
+2:  Corporation,56,Administrative and support and waste management and remediation services,4:   10-19,7076,7311,95307,3616843
+2:  Corporation,56,Administrative and support and waste management and remediation services,5:   <20,54250,54681,217603,8963719
+2:  Corporation,56,Administrative and support and waste management and remediation services,6:   20-99,7465,8729,293514,10904917
+2:  Corporation,56,Administrative and support and waste management and remediation services,7:   100-499,2509,4896,411521,13886891
+2:  Corporation,56,Administrative and support and waste management and remediation services,8:   <500,64224,68306,922638,33755527
+2:  Corporation,56,Administrative and support and waste management and remediation services,9:   500+,1778,38135,3611061,142853869
+2:  Corporation,61,Educational services,1:   Total,10642,15735,397848,14262759
+2:  Corporation,61,Educational services,2:   0-4,6011,6028,9083,361776
+2:  Corporation,61,Educational services,3:   5-9,1656,1675,11011,282432
+2:  Corporation,61,Educational services,4:   10-19,1319,1413,17658,451793
+2:  Corporation,61,Educational services,5:   <20,8986,9116,37752,1096001
+2:  Corporation,61,Educational services,6:   20-99,1172,1536,45326,1433231
+2:  Corporation,61,Educational services,7:   100-499,265,720,40453,1538500
+2:  Corporation,61,Educational services,8:   <500,10423,11372,123531,4067732
+2:  Corporation,61,Educational services,9:   500+,219,4363,274317,10195027
+2:  Corporation,62,Health care and social assistance,1:   Total,111813,174188,3407220,175269506
+2:  Corporation,62,Health care and social assistance,2:   0-4,51762,52105,93203,7955763
+2:  Corporation,62,Health care and social assistance,3:   5-9,25810,26337,171719,10158062
+2:  Corporation,62,Health care and social assistance,4:   10-19,17368,18711,233001,14739658
+2:  Corporation,62,Health care and social assistance,5:   <20,94940,97153,497923,32853483
+2:  Corporation,62,Health care and social assistance,6:   20-99,13417,19125,519925,34769309
+2:  Corporation,62,Health care and social assistance,7:   100-499,2385,9108,412163,21821835
+2:  Corporation,62,Health care and social assistance,8:   <500,110742,125386,1430011,89444627
+2:  Corporation,62,Health care and social assistance,9:   500+,1071,48802,1977209,85824879
+2:  Corporation,71,"Arts, entertainment, and recreation",1:   Total,19920,24021,530340,16208131
+2:  Corporation,71,"Arts, entertainment, and recreation",2:   0-4,12932,12958,15258,2380702
+2:  Corporation,71,"Arts, entertainment, and recreation",3:   5-9,2446,2470,16064,470130
+2:  Corporation,71,"Arts, entertainment, and recreation",4:   10-19,1860,1922,25039,596209
+2:  Corporation,71,"Arts, entertainment, and recreation",5:   <20,17238,17350,56361,3447041
+2:  Corporation,71,"Arts, entertainment, and recreation",6:   20-99,1971,2197,74245,1717575
+2:  Corporation,71,"Arts, entertainment, and recreation",7:   100-499,426,877,66321,2607039
+2:  Corporation,71,"Arts, entertainment, and recreation",8:   <500,19635,20424,196927,7771655
+2:  Corporation,71,"Arts, entertainment, and recreation",9:   500+,285,3597,333413,8436476
+2:  Corporation,72,Accommodation and food services,1:   Total,93353,178531,4123598,77708593
+2:  Corporation,72,Accommodation and food services,2:   0-4,42636,42748,73430,1838329
+2:  Corporation,72,Accommodation and food services,3:   5-9,19090,19188,126095,1775162
+2:  Corporation,72,Accommodation and food services,4:   10-19,15550,15961,210484,2988092
+2:  Corporation,72,Accommodation and food services,5:   <20,77276,77897,410009,6601583
+2:  Corporation,72,Accommodation and food services,6:   20-99,13603,16593,489464,7806278
+2:  Corporation,72,Accommodation and food services,7:   100-499,1620,7570,268018,4779906
+2:  Corporation,72,Accommodation and food services,8:   <500,92499,102060,1167491,19187767
+2:  Corporation,72,Accommodation and food services,9:   500+,854,76471,2956107,58520826
+2:  Corporation,81,Other services (except public administration),1:   Total,95342,127307,972150,31498530
+2:  Corporation,81,Other services (except public administration),2:   0-4,61673,61845,110775,3044722
+2:  Corporation,81,Other services (except public administration),3:   5-9,18275,18693,118946,3523885
+2:  Corporation,81,Other services (except public administration),4:   10-19,9285,10163,121106,3828183
+2:  Corporation,81,Other services (except public administration),5:   <20,89233,90701,350827,10396790
+2:  Corporation,81,Other services (except public administration),6:   20-99,4859,7368,159936,5271967
+2:  Corporation,81,Other services (except public administration),7:   100-499,686,3145,68776,2577586
+2:  Corporation,81,Other services (except public administration),8:   <500,94778,101214,579539,18246343
+2:  Corporation,81,Other services (except public administration),9:   500+,564,26093,392611,13252187
+2:  Corporation,99,Industries not classified,1:   Total,2123,2123,2544,54870
+2:  Corporation,99,Industries not classified,2:   0-4,1997,1997,0,43920
+2:  Corporation,99,Industries not classified,3:   5-9,94,94,608,6709
+2:  Corporation,99,Industries not classified,4:   10-19,25,25,324,2360
+2:  Corporation,99,Industries not classified,5:   <20,2116,2116,2337,52989
+2:  Corporation,99,Industries not classified,6:   20-99,7,7,0,1881
+2:  Corporation,99,Industries not classified,8:   <500,2123,2123,2544,54870
+3:  S-Corporation,--,Total,1:   Total,2575714,2829697,27985014,1052830579
+3:  S-Corporation,--,Total,2:   0-4,1600815,1603883,2587194,113003426
+3:  S-Corporation,--,Total,3:   5-9,446513,452184,2943151,106270605
+3:  S-Corporation,--,Total,4:   10-19,277632,291791,3721197,134458683
+3:  S-Corporation,--,Total,5:   <20,2324960,2347858,9251542,353732714
+3:  S-Corporation,--,Total,6:   20-99,215093,279909,8230837,316782971
+3:  S-Corporation,--,Total,7:   100-499,30802,113946,5444706,214450317
+3:  S-Corporation,--,Total,8:   <500,2570855,2741713,22927085,884966002
+3:  S-Corporation,--,Total,9:   500+,4859,87984,5057929,167864577
+3:  S-Corporation,11,"Agriculture, forestry, fishing and hunting",1:   Total,9070,9148,61714,2111591
+3:  S-Corporation,11,"Agriculture, forestry, fishing and hunting",2:   0-4,6322,6322,8965,370412
+3:  S-Corporation,11,"Agriculture, forestry, fishing and hunting",3:   5-9,1492,1492,9785,339499
+3:  S-Corporation,11,"Agriculture, forestry, fishing and hunting",4:   10-19,753,757,9921,361906
+3:  S-Corporation,11,"Agriculture, forestry, fishing and hunting",5:   <20,8567,8571,28671,1071817
+3:  S-Corporation,11,"Agriculture, forestry, fishing and hunting",6:   20-99,416,442,14421,520018
+3:  S-Corporation,11,"Agriculture, forestry, fishing and hunting",7:   100-499,68,95,9503,294569
+3:  S-Corporation,11,"Agriculture, forestry, fishing and hunting",8:   <500,9051,9108,52595,1886404
+3:  S-Corporation,11,"Agriculture, forestry, fishing and hunting",9:   500+,19,40,9119,225187
+3:  S-Corporation,21,"Mining, quarrying, and oil and gas extraction",1:   Total,9189,9807,105737,6619435
+3:  S-Corporation,21,"Mining, quarrying, and oil and gas extraction",2:   0-4,5744,5755,8678,509313
+3:  S-Corporation,21,"Mining, quarrying, and oil and gas extraction",3:   5-9,1269,1288,8356,429479
+3:  S-Corporation,21,"Mining, quarrying, and oil and gas extraction",4:   10-19,966,988,13052,750216
+3:  S-Corporation,21,"Mining, quarrying, and oil and gas extraction",5:   <20,7979,8031,30086,1689008
+3:  S-Corporation,21,"Mining, quarrying, and oil and gas extraction",6:   20-99,989,1203,37185,2313273
+3:  S-Corporation,21,"Mining, quarrying, and oil and gas extraction",7:   100-499,178,361,23082,1469960
+3:  S-Corporation,21,"Mining, quarrying, and oil and gas extraction",8:   <500,9146,9595,90353,5472241
+3:  S-Corporation,21,"Mining, quarrying, and oil and gas extraction",9:   500+,43,212,15384,1147194
+3:  S-Corporation,22,Utilities,1:   Total,990,1051,7051,421617
+3:  S-Corporation,22,Utilities,2:   0-4,692,694,1127,58016
+3:  S-Corporation,22,Utilities,3:   5-9,161,166,1027,44405
+3:  S-Corporation,22,Utilities,4:   10-19,66,76,825,47230
+3:  S-Corporation,22,Utilities,5:   <20,919,936,2979,149651
+3:  S-Corporation,22,Utilities,6:   20-99,52,81,2051,127769
+3:  S-Corporation,22,Utilities,7:   100-499,11,24,1829,131466
+3:  S-Corporation,22,Utilities,8:   <500,982,1041,6859,408886
+3:  S-Corporation,22,Utilities,9:   500+,8,10,192,12731
+3:  S-Corporation,23,Construction,1:   Total,348001,350711,2647097,132066538
+3:  S-Corporation,23,Construction,2:   0-4,234649,234674,367994,14504387
+3:  S-Corporation,23,Construction,3:   5-9,55308,55330,361566,14343096
+3:  S-Corporation,23,Construction,4:   10-19,31773,31853,424533,19022356
+3:  S-Corporation,23,Construction,5:   <20,321730,321857,1154093,47869839
+3:  S-Corporation,23,Construction,6:   20-99,23381,24137,882354,46892827
+3:  S-Corporation,23,Construction,7:   100-499,2600,3768,437119,26021937
+3:  S-Corporation,23,Construction,8:   <500,347711,349762,2473566,120784603
+3:  S-Corporation,23,Construction,9:   500+,290,949,173531,11281935
+3:  S-Corporation,31-33,Manufacturing,1:   Total,120544,126908,2738203,117369583
+3:  S-Corporation,31-33,Manufacturing,2:   0-4,48552,48571,92372,3370815
+3:  S-Corporation,31-33,Manufacturing,3:   5-9,23282,23302,155712,5527787
+3:  S-Corporation,31-33,Manufacturing,4:   10-19,19410,19542,265605,10416126
+3:  S-Corporation,31-33,Manufacturing,5:   <20,91244,91415,513689,19314728
+3:  S-Corporation,31-33,Manufacturing,6:   20-99,23499,25117,961912,42081268
+3:  S-Corporation,31-33,Manufacturing,7:   100-499,5042,7697,809568,36296375
+3:  S-Corporation,31-33,Manufacturing,8:   <500,119785,124229,2285169,97692371
+3:  S-Corporation,31-33,Manufacturing,9:   500+,759,2679,453034,19677212
+3:  S-Corporation,42,Wholesale trade,1:   Total,155100,176067,1784137,93701551
+3:  S-Corporation,42,Wholesale trade,2:   0-4,92155,92511,152397,7487101
+3:  S-Corporation,42,Wholesale trade,3:   5-9,25262,25763,166432,8062523
+3:  S-Corporation,42,Wholesale trade,4:   10-19,17471,18855,233820,11957541
+3:  S-Corporation,42,Wholesale trade,5:   <20,134888,137129,552649,27507165
+3:  S-Corporation,42,Wholesale trade,6:   20-99,16561,23154,621073,33402756
+3:  S-Corporation,42,Wholesale trade,7:   100-499,3156,10924,424782,22477974
+3:  S-Corporation,42,Wholesale trade,8:   <500,154605,171207,1598504,83387895
+3:  S-Corporation,42,Wholesale trade,9:   500+,495,4860,185633,10313656
+3:  S-Corporation,44-45,Retail trade,1:   Total,308278,370713,3410431,99657537
+3:  S-Corporation,44-45,Retail trade,2:   0-4,174382,175244,338918,8894301
+3:  S-Corporation,44-45,Retail trade,3:   5-9,67002,68754,443175,10861680
+3:  S-Corporation,44-45,Retail trade,4:   10-19,36828,41017,487626,12869584
+3:  S-Corporation,44-45,Retail trade,5:   <20,278212,285015,1269719,32625565
+3:  S-Corporation,44-45,Retail trade,6:   20-99,25586,40769,975102,32304019
+3:  S-Corporation,44-45,Retail trade,7:   100-499,3920,22363,576089,19896969
+3:  S-Corporation,44-45,Retail trade,8:   <500,307718,348147,2820910,84826553
+3:  S-Corporation,44-45,Retail trade,9:   500+,560,22566,589521,14830984
+3:  S-Corporation,48-49,Transportation and warehousing,1:   Total,82550,89945,941765,35273797
+3:  S-Corporation,48-49,Transportation and warehousing,2:   0-4,54690,54762,80618,2852513
+3:  S-Corporation,48-49,Transportation and warehousing,3:   5-9,11533,11652,76105,2671643
+3:  S-Corporation,48-49,Transportation and warehousing,4:   10-19,7733,7966,103311,3687902
+3:  S-Corporation,48-49,Transportation and warehousing,5:   <20,73956,74380,260034,9212058
+3:  S-Corporation,48-49,Transportation and warehousing,6:   20-99,6737,8235,253769,9721313
+3:  S-Corporation,48-49,Transportation and warehousing,7:   100-499,1450,3755,203981,8030527
+3:  S-Corporation,48-49,Transportation and warehousing,8:   <500,82143,86370,717784,26963898
+3:  S-Corporation,48-49,Transportation and warehousing,9:   500+,407,3575,223981,8309899
+3:  S-Corporation,51,Information,1:   Total,31701,33924,299950,16855472
+3:  S-Corporation,51,Information,2:   0-4,21728,21760,29803,2154917
+3:  S-Corporation,51,Information,3:   5-9,4089,4134,26995,1275448
+3:  S-Corporation,51,Information,4:   10-19,2870,3013,38488,1905159
+3:  S-Corporation,51,Information,5:   <20,28687,28907,95286,5335524
+3:  S-Corporation,51,Information,6:   20-99,2470,3127,93420,5215154
+3:  S-Corporation,51,Information,7:   100-499,433,1262,66803,3539636
+3:  S-Corporation,51,Information,8:   <500,31590,33296,255509,14090314
+3:  S-Corporation,51,Information,9:   500+,111,628,44441,2765158
+3:  S-Corporation,52,Finance and insurance,1:   Total,102479,116623,566930,36852201
+3:  S-Corporation,52,Finance and insurance,2:   0-4,77081,77353,134252,6478158
+3:  S-Corporation,52,Finance and insurance,3:   5-9,15455,16033,97710,5064857
+3:  S-Corporation,52,Finance and insurance,4:   10-19,5595,6763,73194,4755641
+3:  S-Corporation,52,Finance and insurance,5:   <20,98131,100149,305156,16298656
+3:  S-Corporation,52,Finance and insurance,6:   20-99,3634,7269,131234,10262496
+3:  S-Corporation,52,Finance and insurance,7:   100-499,570,3740,81637,6771022
+3:  S-Corporation,52,Finance and insurance,8:   <500,102335,111158,518027,33332174
+3:  S-Corporation,52,Finance and insurance,9:   500+,144,5465,48903,3520027
+3:  S-Corporation,53,Real estate and rental and leasing,1:   Total,116279,131838,575587,23785201
+3:  S-Corporation,53,Real estate and rental and leasing,2:   0-4,94677,94985,125192,4958250
+3:  S-Corporation,53,Real estate and rental and leasing,3:   5-9,11159,11677,71725,2766159
+3:  S-Corporation,53,Real estate and rental and leasing,4:   10-19,5538,6482,72111,2980840
+3:  S-Corporation,53,Real estate and rental and leasing,5:   <20,111374,113144,269028,10705249
+3:  S-Corporation,53,Real estate and rental and leasing,6:   20-99,3891,7223,139101,6101230
+3:  S-Corporation,53,Real estate and rental and leasing,7:   100-499,862,6554,112616,4644534
+3:  S-Corporation,53,Real estate and rental and leasing,8:   <500,116127,126921,520745,21451013
+3:  S-Corporation,53,Real estate and rental and leasing,9:   500+,152,4917,54842,2334188
+3:  S-Corporation,54,"Professional, scientific, and technical services",1:   Total,420262,433323,2371086,138235772
+3:  S-Corporation,54,"Professional, scientific, and technical services",2:   0-4,323081,323240,454824,25414939
+3:  S-Corporation,54,"Professional, scientific, and technical services",3:   5-9,50626,50950,329794,16880258
+3:  S-Corporation,54,"Professional, scientific, and technical services",4:   10-19,27514,28457,364455,20120406
+3:  S-Corporation,54,"Professional, scientific, and technical services",5:   <20,401221,402647,1149073,62415603
+3:  S-Corporation,54,"Professional, scientific, and technical services",6:   20-99,16482,20782,599969,38912016
+3:  S-Corporation,54,"Professional, scientific, and technical services",7:   100-499,2131,5518,340712,22583767
+3:  S-Corporation,54,"Professional, scientific, and technical services",8:   <500,419834,428947,2089754,123911386
+3:  S-Corporation,54,"Professional, scientific, and technical services",9:   500+,428,4376,281332,14324386
+3:  S-Corporation,55,Management of companies and enterprises,1:   Total,8997,9803,268242,19581642
+3:  S-Corporation,55,Management of companies and enterprises,2:   0-4,892,895,1139,108757
+3:  S-Corporation,55,Management of companies and enterprises,3:   5-9,288,290,1273,98534
+3:  S-Corporation,55,Management of companies and enterprises,4:   10-19,465,470,2458,169567
+3:  S-Corporation,55,Management of companies and enterprises,5:   <20,1645,1655,4870,376858
+3:  S-Corporation,55,Management of companies and enterprises,6:   20-99,2459,2497,25942,1737827
+3:  S-Corporation,55,Management of companies and enterprises,7:   100-499,3308,3536,82304,5608610
+3:  S-Corporation,55,Management of companies and enterprises,8:   <500,7412,7688,113116,7723295
+3:  S-Corporation,55,Management of companies and enterprises,9:   500+,1585,2115,155126,11858347
+3:  S-Corporation,56,Administrative and support and waste management and remediation services,1:   Total,157909,169256,3386005,99908419
+3:  S-Corporation,56,Administrative and support and waste management and remediation services,2:   0-4,99637,99712,154038,6289526
+3:  S-Corporation,56,Administrative and support and waste management and remediation services,3:   5-9,23904,24027,157520,5255224
+3:  S-Corporation,56,Administrative and support and waste management and remediation services,4:   10-19,15392,15693,207788,7041640
+3:  S-Corporation,56,Administrative and support and waste management and remediation services,5:   <20,138933,139432,519346,18586390
+3:  S-Corporation,56,Administrative and support and waste management and remediation services,6:   20-99,14096,15775,568882,18871010
+3:  S-Corporation,56,Administrative and support and waste management and remediation services,7:   100-499,3747,6529,706070,20012209
+3:  S-Corporation,56,Administrative and support and waste management and remediation services,8:   <500,156776,161736,1794298,57469609
+3:  S-Corporation,56,Administrative and support and waste management and remediation services,9:   500+,1133,7520,1591707,42438810
+3:  S-Corporation,61,Educational services,1:   Total,26893,28346,262322,6924181
+3:  S-Corporation,61,Educational services,2:   0-4,16992,17006,24629,820428
+3:  S-Corporation,61,Educational services,3:   5-9,4241,4269,28487,623653
+3:  S-Corporation,61,Educational services,4:   10-19,3227,3326,43228,893006
+3:  S-Corporation,61,Educational services,5:   <20,24460,24601,96344,2337087
+3:  S-Corporation,61,Educational services,6:   20-99,2113,2621,75042,1866631
+3:  S-Corporation,61,Educational services,7:   100-499,254,665,44293,1322558
+3:  S-Corporation,61,Educational services,8:   <500,26827,27887,215679,5526276
+3:  S-Corporation,61,Educational services,9:   500+,66,459,46643,1397905
+3:  S-Corporation,62,Health care and social assistance,1:   Total,277996,297218,3111237,119537621
+3:  S-Corporation,62,Health care and social assistance,2:   0-4,145571,145777,259655,15942560
+3:  S-Corporation,62,Health care and social assistance,3:   5-9,69065,69502,458187,20369420
+3:  S-Corporation,62,Health care and social assistance,4:   10-19,37550,38955,495260,21478397
+3:  S-Corporation,62,Health care and social assistance,5:   <20,252186,254234,1213102,57790377
+3:  S-Corporation,62,Health care and social assistance,6:   20-99,21739,27587,829845,31339994
+3:  S-Corporation,62,Health care and social assistance,7:   100-499,3609,9596,629611,19091569
+3:  S-Corporation,62,Health care and social assistance,8:   <500,277534,291417,2672558,108221940
+3:  S-Corporation,62,Health care and social assistance,9:   500+,462,5801,438679,11315681
+3:  S-Corporation,71,"Arts, entertainment, and recreation",1:   Total,43572,45087,354486,13097270
+3:  S-Corporation,71,"Arts, entertainment, and recreation",2:   0-4,30513,30529,36988,4394177
+3:  S-Corporation,71,"Arts, entertainment, and recreation",3:   5-9,5315,5358,34891,1239656
+3:  S-Corporation,71,"Arts, entertainment, and recreation",4:   10-19,3897,3978,52341,1212104
+3:  S-Corporation,71,"Arts, entertainment, and recreation",5:   <20,39725,39865,124220,6845937
+3:  S-Corporation,71,"Arts, entertainment, and recreation",6:   20-99,3379,3725,124246,2523720
+3:  S-Corporation,71,"Arts, entertainment, and recreation",7:   100-499,383,720,60552,2538876
+3:  S-Corporation,71,"Arts, entertainment, and recreation",8:   <500,43487,44310,309018,11908533
+3:  S-Corporation,71,"Arts, entertainment, and recreation",9:   500+,85,777,45468,1188737
+3:  S-Corporation,72,Accommodation and food services,1:   Total,201692,245172,3998996,60207133
+3:  S-Corporation,72,Accommodation and food services,2:   0-4,65888,66035,118516,3036436
+3:  S-Corporation,72,Accommodation and food services,3:   5-9,41903,42135,282676,3992461
+3:  S-Corporation,72,Accommodation and food services,4:   10-19,44673,45517,611536,8566548
+3:  S-Corporation,72,Accommodation and food services,5:   <20,152464,153687,1012728,15595445
+3:  S-Corporation,72,Accommodation and food services,6:   20-99,44407,52757,1616531,24613312
+3:  S-Corporation,72,Accommodation and food services,7:   100-499,4094,20866,727929,10688386
+3:  S-Corporation,72,Accommodation and food services,8:   <500,200965,227310,3357188,50897143
+3:  S-Corporation,72,Accommodation and food services,9:   500+,727,17862,641808,9309990
+3:  S-Corporation,81,Other services (except public administration),1:   Total,169481,184514,1093833,30616865
+3:  S-Corporation,81,Other services (except public administration),2:   0-4,107601,107826,196961,5352211
+3:  S-Corporation,81,Other services (except public administration),3:   5-9,35600,36053,231678,6424144
+3:  S-Corporation,81,Other services (except public administration),4:   10-19,16949,18081,221625,6222249
+3:  S-Corporation,81,Other services (except public administration),5:   <20,160150,161960,650264,17998604
+3:  S-Corporation,81,Other services (except public administration),6:   20-99,8306,13408,278758,7976338
+3:  S-Corporation,81,Other services (except public administration),7:   100-499,878,5973,106226,3029373
+3:  S-Corporation,81,Other services (except public administration),8:   <500,169334,181341,1035248,29004315
+3:  S-Corporation,81,Other services (except public administration),9:   500+,147,3173,58585,1612550
+3:  S-Corporation,99,Industries not classified,1:   Total,243,243,205,7153
+3:  S-Corporation,99,Industries not classified,2:   0-4,232,232,128,6209
+3:  S-Corporation,99,Industries not classified,3:   5-9,9,9,0,679
+3:  S-Corporation,99,Industries not classified,4:   10-19,2,2,0,0
+3:  S-Corporation,99,Industries not classified,5:   <20,243,243,205,7153
+3:  S-Corporation,99,Industries not classified,8:   <500,243,243,205,7153
+4:  Partnership,--,Total,1:   Total,620361,764827,11853573,505857609
+4:  Partnership,--,Total,2:   0-4,346580,347540,576574,23232107
+4:  Partnership,--,Total,3:   5-9,109524,110700,723456,22707171
+4:  Partnership,--,Total,4:   10-19,76207,79083,1027820,33390935
+4:  Partnership,--,Total,5:   <20,532311,537323,2327850,79330213
+4:  Partnership,--,Total,6:   20-99,71340,87813,2771861,98380402
+4:  Partnership,--,Total,7:   100-499,12735,42856,2158095,95325949
+4:  Partnership,--,Total,8:   <500,616386,667992,7257806,273036564
+4:  Partnership,--,Total,9:   500+,3975,96835,4595767,232821045
+4:  Partnership,11,"Agriculture, forestry, fishing and hunting",1:   Total,2716,2796,22288,720421
+4:  Partnership,11,"Agriculture, forestry, fishing and hunting",2:   0-4,1898,1898,2957,117832
+4:  Partnership,11,"Agriculture, forestry, fishing and hunting",3:   5-9,434,435,2829,85918
+4:  Partnership,11,"Agriculture, forestry, fishing and hunting",4:   10-19,195,197,2538,93467
+4:  Partnership,11,"Agriculture, forestry, fishing and hunting",5:   <20,2527,2530,8324,297217
+4:  Partnership,11,"Agriculture, forestry, fishing and hunting",6:   20-99,142,155,5517,195908
+4:  Partnership,11,"Agriculture, forestry, fishing and hunting",7:   100-499,34,80,5157,160077
+4:  Partnership,11,"Agriculture, forestry, fishing and hunting",8:   <500,2703,2765,18998,653202
+4:  Partnership,11,"Agriculture, forestry, fishing and hunting",9:   500+,13,31,3290,67219
+4:  Partnership,21,"Mining, quarrying, and oil and gas extraction",1:   Total,3917,4638,99386,7784468
+4:  Partnership,21,"Mining, quarrying, and oil and gas extraction",2:   0-4,2055,2056,3267,278347
+4:  Partnership,21,"Mining, quarrying, and oil and gas extraction",3:   5-9,656,657,4441,285226
+4:  Partnership,21,"Mining, quarrying, and oil and gas extraction",4:   10-19,470,475,6353,426954
+4:  Partnership,21,"Mining, quarrying, and oil and gas extraction",5:   <20,3181,3188,14061,990527
+4:  Partnership,21,"Mining, quarrying, and oil and gas extraction",6:   20-99,521,608,20552,1429859
+4:  Partnership,21,"Mining, quarrying, and oil and gas extraction",7:   100-499,146,223,24666,1928840
+4:  Partnership,21,"Mining, quarrying, and oil and gas extraction",8:   <500,3848,4019,59279,4349226
+4:  Partnership,21,"Mining, quarrying, and oil and gas extraction",9:   500+,69,619,40107,3435242
+4:  Partnership,22,Utilities,1:   Total,507,854,16113,1569033
+4:  Partnership,22,Utilities,2:   0-4,254,255,418,31751
+4:  Partnership,22,Utilities,3:   5-9,78,78,508,31947
+4:  Partnership,22,Utilities,4:   10-19,45,45,600,44726
+4:  Partnership,22,Utilities,5:   <20,377,378,1526,108424
+4:  Partnership,22,Utilities,6:   20-99,70,98,2298,208510
+4:  Partnership,22,Utilities,7:   100-499,30,74,2806,273681
+4:  Partnership,22,Utilities,8:   <500,477,550,6630,590615
+4:  Partnership,22,Utilities,9:   500+,30,304,9483,978418
+4:  Partnership,23,Construction,1:   Total,50203,51182,449454,23183115
+4:  Partnership,23,Construction,2:   0-4,34637,34640,52892,2240131
+4:  Partnership,23,Construction,3:   5-9,7625,7635,49554,1842185
+4:  Partnership,23,Construction,4:   10-19,4179,4191,55628,2365064
+4:  Partnership,23,Construction,5:   <20,46441,46466,158074,6447380
+4:  Partnership,23,Construction,6:   20-99,3064,3211,115587,5728193
+4:  Partnership,23,Construction,7:   100-499,511,757,75566,4398107
+4:  Partnership,23,Construction,8:   <500,50016,50434,349227,16573680
+4:  Partnership,23,Construction,9:   500+,187,748,100227,6609435
+4:  Partnership,31-33,Manufacturing,1:   Total,26153,28495,846507,40180720
+4:  Partnership,31-33,Manufacturing,2:   0-4,11715,11724,19959,947022
+4:  Partnership,31-33,Manufacturing,3:   5-9,4536,4543,29984,976386
+4:  Partnership,31-33,Manufacturing,4:   10-19,3578,3607,48426,1704201
+4:  Partnership,31-33,Manufacturing,5:   <20,19829,19874,98369,3627609
+4:  Partnership,31-33,Manufacturing,6:   20-99,4402,4662,180106,7409565
+4:  Partnership,31-33,Manufacturing,7:   100-499,1355,2049,206808,9033369
+4:  Partnership,31-33,Manufacturing,8:   <500,25586,26585,485283,20070543
+4:  Partnership,31-33,Manufacturing,9:   500+,567,1910,361224,20110177
+4:  Partnership,42,Wholesale trade,1:   Total,25541,31869,479358,26233640
+4:  Partnership,42,Wholesale trade,2:   0-4,13957,14011,23858,1188674
+4:  Partnership,42,Wholesale trade,3:   5-9,4585,4666,30111,1351648
+4:  Partnership,42,Wholesale trade,4:   10-19,2940,3081,39192,1886773
+4:  Partnership,42,Wholesale trade,5:   <20,21482,21758,93161,4427095
+4:  Partnership,42,Wholesale trade,6:   20-99,2884,3667,107295,5466193
+4:  Partnership,42,Wholesale trade,7:   100-499,828,2618,103300,5522078
+4:  Partnership,42,Wholesale trade,8:   <500,25194,28043,303756,15415366
+4:  Partnership,42,Wholesale trade,9:   500+,347,3826,175602,10818274
+4:  Partnership,44-45,Retail trade,1:   Total,73480,96211,964243,25589032
+4:  Partnership,44-45,Retail trade,2:   0-4,45609,45751,81337,1933561
+4:  Partnership,44-45,Retail trade,3:   5-9,14573,14813,95850,1857210
+4:  Partnership,44-45,Retail trade,4:   10-19,7154,7690,93967,2045254
+4:  Partnership,44-45,Retail trade,5:   <20,67336,68254,271154,5836025
+4:  Partnership,44-45,Retail trade,6:   20-99,4958,7271,191565,6168702
+4:  Partnership,44-45,Retail trade,7:   100-499,904,4984,124921,4318314
+4:  Partnership,44-45,Retail trade,8:   <500,73198,80509,587640,16323041
+4:  Partnership,44-45,Retail trade,9:   500+,282,15702,376603,9265991
+4:  Partnership,48-49,Transportation and warehousing,1:   Total,16014,19286,270357,11317260
+4:  Partnership,48-49,Transportation and warehousing,2:   0-4,9782,9798,15241,655819
+4:  Partnership,48-49,Transportation and warehousing,3:   5-9,2534,2546,16634,558921
+4:  Partnership,48-49,Transportation and warehousing,4:   10-19,1635,1707,21976,762692
+4:  Partnership,48-49,Transportation and warehousing,5:   <20,13951,14051,53851,1977432
+4:  Partnership,48-49,Transportation and warehousing,6:   20-99,1403,1626,52361,2041508
+4:  Partnership,48-49,Transportation and warehousing,7:   100-499,383,889,49408,2067581
+4:  Partnership,48-49,Transportation and warehousing,8:   <500,15737,16566,155620,6086521
+4:  Partnership,48-49,Transportation and warehousing,9:   500+,277,2720,114737,5230739
+4:  Partnership,51,Information,1:   Total,8788,15466,369727,21755771
+4:  Partnership,51,Information,2:   0-4,4663,4679,7344,405316
+4:  Partnership,51,Information,3:   5-9,1419,1427,9384,392485
+4:  Partnership,51,Information,4:   10-19,1072,1101,14322,656231
+4:  Partnership,51,Information,5:   <20,7154,7207,31050,1454032
+4:  Partnership,51,Information,6:   20-99,1152,1443,43991,2340608
+4:  Partnership,51,Information,7:   100-499,308,875,43829,2394935
+4:  Partnership,51,Information,8:   <500,8614,9525,118870,6189575
+4:  Partnership,51,Information,9:   500+,174,5941,250857,15566196
+4:  Partnership,52,Finance and insurance,1:   Total,24603,43145,336780,51622035
+4:  Partnership,52,Finance and insurance,2:   0-4,16456,16568,28942,1991234
+4:  Partnership,52,Finance and insurance,3:   5-9,3700,3838,24008,2002432
+4:  Partnership,52,Finance and insurance,4:   10-19,1930,2206,25327,3190370
+4:  Partnership,52,Finance and insurance,5:   <20,22086,22612,78277,7184036
+4:  Partnership,52,Finance and insurance,6:   20-99,1779,2914,65073,10253328
+4:  Partnership,52,Finance and insurance,7:   100-499,477,2107,63096,12418952
+4:  Partnership,52,Finance and insurance,8:   <500,24342,27633,206446,29856316
+4:  Partnership,52,Finance and insurance,9:   500+,261,15512,130334,21765719
+4:  Partnership,53,Real estate and rental and leasing,1:   Total,67768,82548,462170,18871429
+4:  Partnership,53,Real estate and rental and leasing,2:   0-4,50645,50855,86356,2583751
+4:  Partnership,53,Real estate and rental and leasing,3:   5-9,9622,9882,61810,1977000
+4:  Partnership,53,Real estate and rental and leasing,4:   10-19,3999,4454,52030,1861395
+4:  Partnership,53,Real estate and rental and leasing,5:   <20,64266,65191,200196,6422146
+4:  Partnership,53,Real estate and rental and leasing,6:   20-99,2715,5024,99264,4039242
+4:  Partnership,53,Real estate and rental and leasing,7:   100-499,564,3897,70441,3338458
+4:  Partnership,53,Real estate and rental and leasing,8:   <500,67545,74112,369901,13799846
+4:  Partnership,53,Real estate and rental and leasing,9:   500+,223,8436,92269,5071583
+4:  Partnership,54,"Professional, scientific, and technical services",1:   Total,79952,89028,1301378,97615340
+4:  Partnership,54,"Professional, scientific, and technical services",2:   0-4,46716,46780,83299,4251780
+4:  Partnership,54,"Professional, scientific, and technical services",3:   5-9,15261,15364,100420,4962343
+4:  Partnership,54,"Professional, scientific, and technical services",4:   10-19,9275,9671,124118,6977372
+4:  Partnership,54,"Professional, scientific, and technical services",5:   <20,71252,71815,307837,16191495
+4:  Partnership,54,"Professional, scientific, and technical services",6:   20-99,6950,8762,259985,16886361
+4:  Partnership,54,"Professional, scientific, and technical services",7:   100-499,1237,3466,201262,14466974
+4:  Partnership,54,"Professional, scientific, and technical services",8:   <500,79439,84043,769084,47544830
+4:  Partnership,54,"Professional, scientific, and technical services",9:   500+,513,4985,532294,50070510
+4:  Partnership,55,Management of companies and enterprises,1:   Total,3351,4197,180531,16012941
+4:  Partnership,55,Management of companies and enterprises,2:   0-4,547,548,682,74997
+4:  Partnership,55,Management of companies and enterprises,3:   5-9,124,125,709,68258
+4:  Partnership,55,Management of companies and enterprises,4:   10-19,155,158,1272,94073
+4:  Partnership,55,Management of companies and enterprises,5:   <20,826,831,2663,237328
+4:  Partnership,55,Management of companies and enterprises,6:   20-99,614,632,9068,619414
+4:  Partnership,55,Management of companies and enterprises,7:   100-499,1032,1098,29904,2028070
+4:  Partnership,55,Management of companies and enterprises,8:   <500,2472,2561,41635,2884812
+4:  Partnership,55,Management of companies and enterprises,9:   500+,879,1636,138896,13128129
+4:  Partnership,56,Administrative and support and waste management and remediation services,1:   Total,32228,37673,1090927,39043921
+4:  Partnership,56,Administrative and support and waste management and remediation services,2:   0-4,19209,19231,29149,1350248
+4:  Partnership,56,Administrative and support and waste management and remediation services,3:   5-9,5002,5014,32847,1101242
+4:  Partnership,56,Administrative and support and waste management and remediation services,4:   10-19,3142,3194,42362,1533311
+4:  Partnership,56,Administrative and support and waste management and remediation services,5:   <20,27353,27439,104358,3984801
+4:  Partnership,56,Administrative and support and waste management and remediation services,6:   20-99,3270,3604,135825,5289181
+4:  Partnership,56,Administrative and support and waste management and remediation services,7:   100-499,1088,1678,191095,5933120
+4:  Partnership,56,Administrative and support and waste management and remediation services,8:   <500,31711,32721,431278,15207102
+4:  Partnership,56,Administrative and support and waste management and remediation services,9:   500+,517,4952,659649,23836819
+4:  Partnership,61,Educational services,1:   Total,6639,6988,96205,2404514
+4:  Partnership,61,Educational services,2:   0-4,3557,3562,5634,156400
+4:  Partnership,61,Educational services,3:   5-9,1309,1309,8802,149575
+4:  Partnership,61,Educational services,4:   10-19,972,974,13113,224594
+4:  Partnership,61,Educational services,5:   <20,5838,5845,27549,530569
+4:  Partnership,61,Educational services,6:   20-99,666,723,23754,604166
+4:  Partnership,61,Educational services,7:   100-499,101,236,16214,488322
+4:  Partnership,61,Educational services,8:   <500,6605,6804,67517,1623057
+4:  Partnership,61,Educational services,9:   500+,34,184,28688,781457
+4:  Partnership,62,Health care and social assistance,1:   Total,50634,63347,1635845,56720794
+4:  Partnership,62,Health care and social assistance,2:   0-4,18053,18107,32663,1597694
+4:  Partnership,62,Health care and social assistance,3:   5-9,10528,10596,71464,2250821
+4:  Partnership,62,Health care and social assistance,4:   10-19,9531,9799,129433,4212387
+4:  Partnership,62,Health care and social assistance,5:   <20,38112,38502,233560,8060902
+4:  Partnership,62,Health care and social assistance,6:   20-99,9642,11703,388732,11886518
+4:  Partnership,62,Health care and social assistance,7:   100-499,2320,5291,396076,12671114
+4:  Partnership,62,Health care and social assistance,8:   <500,50074,55496,1018368,32618534
+4:  Partnership,62,Health care and social assistance,9:   500+,560,7851,617477,24102260
+4:  Partnership,71,"Arts, entertainment, and recreation",1:   Total,16437,17895,395175,15954874
+4:  Partnership,71,"Arts, entertainment, and recreation",2:   0-4,7929,7988,11400,522086
+4:  Partnership,71,"Arts, entertainment, and recreation",3:   5-9,2616,2631,17244,362615
+4:  Partnership,71,"Arts, entertainment, and recreation",4:   10-19,2494,2523,34079,713360
+4:  Partnership,71,"Arts, entertainment, and recreation",5:   <20,13039,13142,62723,1598061
+4:  Partnership,71,"Arts, entertainment, and recreation",6:   20-99,2759,2892,109355,2236166
+4:  Partnership,71,"Arts, entertainment, and recreation",7:   100-499,463,698,77693,5379892
+4:  Partnership,71,"Arts, entertainment, and recreation",8:   <500,16261,16732,249771,9214119
+4:  Partnership,71,"Arts, entertainment, and recreation",9:   500+,176,1163,145404,6740755
+4:  Partnership,72,Accommodation and food services,1:   Total,100130,127693,2546903,42258155
+4:  Partnership,72,Accommodation and food services,2:   0-4,36132,36211,51179,1938471
+4:  Partnership,72,Accommodation and food services,3:   5-9,17584,17680,118409,1452854
+4:  Partnership,72,Accommodation and food services,4:   10-19,19877,20112,273584,3537708
+4:  Partnership,72,Accommodation and food services,5:   <20,73593,74003,443172,6929033
+4:  Partnership,72,Accommodation and food services,6:   20-99,23229,25477,884001,13762657
+4:  Partnership,72,Accommodation and food services,7:   100-499,2598,10138,443637,7550599
+4:  Partnership,72,Accommodation and food services,8:   <500,99420,109618,1770810,28242289
+4:  Partnership,72,Accommodation and food services,9:   500+,710,18075,776093,14015866
+4:  Partnership,81,Other services (except public administration),1:   Total,35951,40814,289259,6997514
+4:  Partnership,81,Other services (except public administration),2:   0-4,22214,22227,39509,952504
+4:  Partnership,81,Other services (except public administration),3:   5-9,7371,7424,48215,994277
+4:  Partnership,81,Other services (except public administration),4:   10-19,3748,3887,49350,1058141
+4:  Partnership,81,Other services (except public administration),5:   <20,33333,33538,137074,3004922
+4:  Partnership,81,Other services (except public administration),6:   20-99,2247,3338,77436,1812870
+4:  Partnership,81,Other services (except public administration),7:   100-499,261,1698,32216,953466
+4:  Partnership,81,Other services (except public administration),8:   <500,35841,38574,246726,5771258
+4:  Partnership,81,Other services (except public administration),9:   500+,110,2240,42533,1226256
+4:  Partnership,99,Industries not classified,1:   Total,702,702,967,22632
+4:  Partnership,99,Industries not classified,2:   0-4,651,651,488,14489
+4:  Partnership,99,Industries not classified,3:   5-9,37,37,233,3828
+4:  Partnership,99,Industries not classified,4:   10-19,11,11,150,2862
+4:  Partnership,99,Industries not classified,5:   <20,699,699,871,21179
+4:  Partnership,99,Industries not classified,6:   20-99,3,3,96,1453
+4:  Partnership,99,Industries not classified,8:   <500,702,702,967,22632
+5:  Sole Proprietorship,--,Total,1:   Total,869488,885782,3786435,98478191
+5:  Sole Proprietorship,--,Total,2:   0-4,692903,693318,1123767,25047609
+5:  Sole Proprietorship,--,Total,3:   5-9,119610,120286,760706,15825930
+5:  Sole Proprietorship,--,Total,4:   10-19,40025,41177,515461,10334962
+5:  Sole Proprietorship,--,Total,5:   <20,852538,854781,2399934,51208501
+5:  Sole Proprietorship,--,Total,6:   20-99,14725,16993,505247,11536823
+5:  Sole Proprietorship,--,Total,7:   100-499,1486,3677,233812,8861688
+5:  Sole Proprietorship,--,Total,8:   <500,868749,875451,3138993,71607012
+5:  Sole Proprietorship,--,Total,9:   500+,739,10331,647442,26871179
+5:  Sole Proprietorship,11,"Agriculture, forestry, fishing and hunting",1:   Total,4541,4541,16455,397164
+5:  Sole Proprietorship,11,"Agriculture, forestry, fishing and hunting",2:   0-4,3682,3682,5404,145471
+5:  Sole Proprietorship,11,"Agriculture, forestry, fishing and hunting",3:   5-9,589,589,3771,96955
+5:  Sole Proprietorship,11,"Agriculture, forestry, fishing and hunting",4:   10-19,193,193,2368,59756
+5:  Sole Proprietorship,11,"Agriculture, forestry, fishing and hunting",5:   <20,4464,4464,11543,302182
+5:  Sole Proprietorship,11,"Agriculture, forestry, fishing and hunting",6:   20-99,67,67,2359,64196
+5:  Sole Proprietorship,11,"Agriculture, forestry, fishing and hunting",7:   100-499,8,8,1577,21224
+5:  Sole Proprietorship,11,"Agriculture, forestry, fishing and hunting",8:   <500,4539,4539,15479,387602
+5:  Sole Proprietorship,11,"Agriculture, forestry, fishing and hunting",9:   500+,2,2,0,0
+5:  Sole Proprietorship,21,"Mining, quarrying, and oil and gas extraction",1:   Total,1862,1895,13305,959200
+5:  Sole Proprietorship,21,"Mining, quarrying, and oil and gas extraction",2:   0-4,1422,1422,2243,83748
+5:  Sole Proprietorship,21,"Mining, quarrying, and oil and gas extraction",3:   5-9,242,242,1542,57495
+5:  Sole Proprietorship,21,"Mining, quarrying, and oil and gas extraction",4:   10-19,112,112,1461,61192
+5:  Sole Proprietorship,21,"Mining, quarrying, and oil and gas extraction",5:   <20,1776,1776,5246,202435
+5:  Sole Proprietorship,21,"Mining, quarrying, and oil and gas extraction",6:   20-99,63,66,2452,175737
+5:  Sole Proprietorship,21,"Mining, quarrying, and oil and gas extraction",7:   100-499,15,29,2636,207748
+5:  Sole Proprietorship,21,"Mining, quarrying, and oil and gas extraction",8:   <500,1854,1871,10334,585920
+5:  Sole Proprietorship,21,"Mining, quarrying, and oil and gas extraction",9:   500+,8,24,2971,373280
+5:  Sole Proprietorship,22,Utilities,1:   Total,232,244,3392,280882
+5:  Sole Proprietorship,22,Utilities,2:   0-4,173,173,255,8963
+5:  Sole Proprietorship,22,Utilities,3:   5-9,25,25,159,5434
+5:  Sole Proprietorship,22,Utilities,4:   10-19,7,14,78,3586
+5:  Sole Proprietorship,22,Utilities,5:   <20,205,212,492,17983
+5:  Sole Proprietorship,22,Utilities,6:   20-99,16,19,729,50868
+5:  Sole Proprietorship,22,Utilities,7:   100-499,4,4,576,50600
+5:  Sole Proprietorship,22,Utilities,8:   <500,225,235,1797,119451
+5:  Sole Proprietorship,22,Utilities,9:   500+,7,9,1595,161431
+5:  Sole Proprietorship,23,Construction,1:   Total,109334,109448,267517,7788228
+5:  Sole Proprietorship,23,Construction,2:   0-4,96495,96496,133106,3537747
+5:  Sole Proprietorship,23,Construction,3:   5-9,9407,9411,58886,1501553
+5:  Sole Proprietorship,23,Construction,4:   10-19,2699,2702,34382,940021
+5:  Sole Proprietorship,23,Construction,5:   <20,108601,108609,226374,5979321
+5:  Sole Proprietorship,23,Construction,6:   20-99,671,678,21777,723634
+5:  Sole Proprietorship,23,Construction,7:   100-499,40,58,5847,352436
+5:  Sole Proprietorship,23,Construction,8:   <500,109312,109345,253998,7055391
+5:  Sole Proprietorship,23,Construction,9:   500+,22,103,13519,732837
+5:  Sole Proprietorship,31-33,Manufacturing,1:   Total,23698,24022,171492,6690185
+5:  Sole Proprietorship,31-33,Manufacturing,2:   0-4,18077,18077,31227,774523
+5:  Sole Proprietorship,31-33,Manufacturing,3:   5-9,3588,3593,22812,505709
+5:  Sole Proprietorship,31-33,Manufacturing,4:   10-19,1244,1252,16223,391546
+5:  Sole Proprietorship,31-33,Manufacturing,5:   <20,22909,22922,70262,1671778
+5:  Sole Proprietorship,31-33,Manufacturing,6:   20-99,542,554,19200,694462
+5:  Sole Proprietorship,31-33,Manufacturing,7:   100-499,134,198,19336,877850
+5:  Sole Proprietorship,31-33,Manufacturing,8:   <500,23585,23674,108798,3244090
+5:  Sole Proprietorship,31-33,Manufacturing,9:   500+,113,348,62694,3446095
+5:  Sole Proprietorship,42,Wholesale trade,1:   Total,16270,16956,82113,3302848
+5:  Sole Proprietorship,42,Wholesale trade,2:   0-4,13094,13109,21090,550090
+5:  Sole Proprietorship,42,Wholesale trade,3:   5-9,2018,2037,12838,345661
+5:  Sole Proprietorship,42,Wholesale trade,4:   10-19,708,732,9184,262808
+5:  Sole Proprietorship,42,Wholesale trade,5:   <20,15820,15878,43112,1158559
+5:  Sole Proprietorship,42,Wholesale trade,6:   20-99,327,378,10926,458627
+5:  Sole Proprietorship,42,Wholesale trade,7:   100-499,69,194,7563,409645
+5:  Sole Proprietorship,42,Wholesale trade,8:   <500,16216,16450,61601,2026831
+5:  Sole Proprietorship,42,Wholesale trade,9:   500+,54,506,20512,1276017
+5:  Sole Proprietorship,44-45,Retail trade,1:   Total,106980,110118,435938,7996925
+5:  Sole Proprietorship,44-45,Retail trade,2:   0-4,83487,83645,146199,2376721
+5:  Sole Proprietorship,44-45,Retail trade,3:   5-9,16742,16998,107300,1640979
+5:  Sole Proprietorship,44-45,Retail trade,4:   10-19,5325,5727,67905,1079578
+5:  Sole Proprietorship,44-45,Retail trade,5:   <20,105554,106370,321404,5097278
+5:  Sole Proprietorship,44-45,Retail trade,6:   20-99,1288,1784,39733,790858
+5:  Sole Proprietorship,44-45,Retail trade,7:   100-499,82,237,7702,235829
+5:  Sole Proprietorship,44-45,Retail trade,8:   <500,106924,108391,368839,6123965
+5:  Sole Proprietorship,44-45,Retail trade,9:   500+,56,1727,67099,1872960
+5:  Sole Proprietorship,48-49,Transportation and warehousing,1:   Total,21763,22028,88902,2654598
+5:  Sole Proprietorship,48-49,Transportation and warehousing,2:   0-4,17643,17651,25769,705961
+5:  Sole Proprietorship,48-49,Transportation and warehousing,3:   5-9,2590,2600,16545,412285
+5:  Sole Proprietorship,48-49,Transportation and warehousing,4:   10-19,1017,1031,13140,353879
+5:  Sole Proprietorship,48-49,Transportation and warehousing,5:   <20,21250,21282,55454,1472125
+5:  Sole Proprietorship,48-49,Transportation and warehousing,6:   20-99,419,449,13842,406523
+5:  Sole Proprietorship,48-49,Transportation and warehousing,7:   100-499,54,110,6615,271434
+5:  Sole Proprietorship,48-49,Transportation and warehousing,8:   <500,21723,21841,75911,2150082
+5:  Sole Proprietorship,48-49,Transportation and warehousing,9:   500+,40,187,12991,504516
+5:  Sole Proprietorship,51,Information,1:   Total,3662,3940,36906,2267096
+5:  Sole Proprietorship,51,Information,2:   0-4,2793,2795,4290,123612
+5:  Sole Proprietorship,51,Information,3:   5-9,448,452,2840,72252
+5:  Sole Proprietorship,51,Information,4:   10-19,204,207,2674,80144
+5:  Sole Proprietorship,51,Information,5:   <20,3445,3454,9804,276008
+5:  Sole Proprietorship,51,Information,6:   20-99,125,155,4498,206773
+5:  Sole Proprietorship,51,Information,7:   100-499,57,125,8676,522044
+5:  Sole Proprietorship,51,Information,8:   <500,3627,3734,22978,1004825
+5:  Sole Proprietorship,51,Information,9:   500+,35,206,13928,1262271
+5:  Sole Proprietorship,52,Finance and insurance,1:   Total,49283,50250,149113,6914573
+5:  Sole Proprietorship,52,Finance and insurance,2:   0-4,44417,44434,77145,2072284
+5:  Sole Proprietorship,52,Finance and insurance,3:   5-9,3926,3955,23511,708732
+5:  Sole Proprietorship,52,Finance and insurance,4:   10-19,577,638,7209,356796
+5:  Sole Proprietorship,52,Finance and insurance,5:   <20,48920,49027,107865,3137812
+5:  Sole Proprietorship,52,Finance and insurance,6:   20-99,232,357,8797,643643
+5:  Sole Proprietorship,52,Finance and insurance,7:   100-499,81,319,12189,1284312
+5:  Sole Proprietorship,52,Finance and insurance,8:   <500,49233,49703,128851,5065767
+5:  Sole Proprietorship,52,Finance and insurance,9:   500+,50,547,20262,1848806
+5:  Sole Proprietorship,53,Real estate and rental and leasing,1:   Total,26419,27930,86833,3092615
+5:  Sole Proprietorship,53,Real estate and rental and leasing,2:   0-4,23035,23068,34670,783838
+5:  Sole Proprietorship,53,Real estate and rental and leasing,3:   5-9,2236,2299,14086,352215
+5:  Sole Proprietorship,53,Real estate and rental and leasing,4:   10-19,745,882,9519,250232
+5:  Sole Proprietorship,53,Real estate and rental and leasing,5:   <20,26016,26249,58275,1386285
+5:  Sole Proprietorship,53,Real estate and rental and leasing,6:   20-99,332,529,10379,342988
+5:  Sole Proprietorship,53,Real estate and rental and leasing,7:   100-499,43,143,5619,373788
+5:  Sole Proprietorship,53,Real estate and rental and leasing,8:   <500,26391,26921,74273,2103061
+5:  Sole Proprietorship,53,Real estate and rental and leasing,9:   500+,28,1009,0,0
+5:  Sole Proprietorship,54,"Professional, scientific, and technical services",1:   Total,113647,115082,384090,12746230
+5:  Sole Proprietorship,54,"Professional, scientific, and technical services",2:   0-4,98671,98686,155959,4165293
+5:  Sole Proprietorship,54,"Professional, scientific, and technical services",3:   5-9,10484,10499,66100,2018213
+5:  Sole Proprietorship,54,"Professional, scientific, and technical services",4:   10-19,3219,3277,41600,1306779
+5:  Sole Proprietorship,54,"Professional, scientific, and technical services",5:   <20,112374,112462,263659,7490285
+5:  Sole Proprietorship,54,"Professional, scientific, and technical services",6:   20-99,1098,1340,35491,1233811
+5:  Sole Proprietorship,54,"Professional, scientific, and technical services",7:   100-499,94,167,12982,637964
+5:  Sole Proprietorship,54,"Professional, scientific, and technical services",8:   <500,113566,113969,312132,9362060
+5:  Sole Proprietorship,54,"Professional, scientific, and technical services",9:   500+,81,1113,71958,3384170
+5:  Sole Proprietorship,55,Management of companies and enterprises,1:   Total,340,497,24656,2580887
+5:  Sole Proprietorship,55,Management of companies and enterprises,2:   0-4,74,74,0,5375
+5:  Sole Proprietorship,55,Management of companies and enterprises,3:   5-9,18,18,78,4115
+5:  Sole Proprietorship,55,Management of companies and enterprises,4:   10-19,11,11,73,5866
+5:  Sole Proprietorship,55,Management of companies and enterprises,5:   <20,103,103,245,15356
+5:  Sole Proprietorship,55,Management of companies and enterprises,6:   20-99,49,51,815,60239
+5:  Sole Proprietorship,55,Management of companies and enterprises,7:   100-499,83,86,3322,187906
+5:  Sole Proprietorship,55,Management of companies and enterprises,8:   <500,235,240,4382,263501
+5:  Sole Proprietorship,55,Management of companies and enterprises,9:   500+,105,257,20274,2317386
+5:  Sole Proprietorship,56,Administrative and support and waste management and remediation services,1:   Total,59716,60195,261254,6058351
+5:  Sole Proprietorship,56,Administrative and support and waste management and remediation services,2:   0-4,48999,49004,67132,1578562
+5:  Sole Proprietorship,56,Administrative and support and waste management and remediation services,3:   5-9,6932,6941,44311,817523
+5:  Sole Proprietorship,56,Administrative and support and waste management and remediation services,4:   10-19,2481,2493,32713,588427
+5:  Sole Proprietorship,56,Administrative and support and waste management and remediation services,5:   <20,58412,58438,144156,2984512
+5:  Sole Proprietorship,56,Administrative and support and waste management and remediation services,6:   20-99,1090,1141,39204,903186
+5:  Sole Proprietorship,56,Administrative and support and waste management and remediation services,7:   100-499,132,148,22740,602463
+5:  Sole Proprietorship,56,Administrative and support and waste management and remediation services,8:   <500,59634,59727,206100,4490161
+5:  Sole Proprietorship,56,Administrative and support and waste management and remediation services,9:   500+,82,468,55154,1568190
+5:  Sole Proprietorship,61,Educational services,1:   Total,8168,8247,70766,1615068
+5:  Sole Proprietorship,61,Educational services,2:   0-4,5220,5222,8409,123294
+5:  Sole Proprietorship,61,Educational services,3:   5-9,1557,1558,10145,99459
+5:  Sole Proprietorship,61,Educational services,4:   10-19,801,824,10478,116605
+5:  Sole Proprietorship,61,Educational services,5:   <20,7578,7604,29032,339358
+5:  Sole Proprietorship,61,Educational services,6:   20-99,506,525,19909,475027
+5:  Sole Proprietorship,61,Educational services,7:   100-499,74,93,11231,350902
+5:  Sole Proprietorship,61,Educational services,8:   <500,8158,8222,60172,1165287
+5:  Sole Proprietorship,61,Educational services,9:   500+,10,25,10594,449781
+5:  Sole Proprietorship,62,Health care and social assistance,1:   Total,125591,126856,620118,15797349
+5:  Sole Proprietorship,62,Health care and social assistance,2:   0-4,86958,86991,172717,3928783
+5:  Sole Proprietorship,62,Health care and social assistance,3:   5-9,28880,28949,184072,4657837
+5:  Sole Proprietorship,62,Health care and social assistance,4:   10-19,7469,7589,93543,2340977
+5:  Sole Proprietorship,62,Health care and social assistance,5:   <20,123307,123529,450332,10927597
+5:  Sole Proprietorship,62,Health care and social assistance,6:   20-99,1929,2094,66817,1456666
+5:  Sole Proprietorship,62,Health care and social assistance,7:   100-499,233,496,39350,1005092
+5:  Sole Proprietorship,62,Health care and social assistance,8:   <500,125469,126119,556499,13389355
+5:  Sole Proprietorship,62,Health care and social assistance,9:   500+,122,737,63619,2407994
+5:  Sole Proprietorship,71,"Arts, entertainment, and recreation",1:   Total,9899,10142,77500,2421693
+5:  Sole Proprietorship,71,"Arts, entertainment, and recreation",2:   0-4,7540,7540,10660,252202
+5:  Sole Proprietorship,71,"Arts, entertainment, and recreation",3:   5-9,1341,1344,8610,127336
+5:  Sole Proprietorship,71,"Arts, entertainment, and recreation",4:   10-19,621,634,8228,141004
+5:  Sole Proprietorship,71,"Arts, entertainment, and recreation",5:   <20,9502,9518,27498,520542
+5:  Sole Proprietorship,71,"Arts, entertainment, and recreation",6:   20-99,325,344,11273,193171
+5:  Sole Proprietorship,71,"Arts, entertainment, and recreation",7:   100-499,43,82,7507,527344
+5:  Sole Proprietorship,71,"Arts, entertainment, and recreation",8:   <500,9870,9944,46278,1241057
+5:  Sole Proprietorship,71,"Arts, entertainment, and recreation",9:   500+,29,198,0,0
+5:  Sole Proprietorship,72,Accommodation and food services,1:   Total,88492,92511,734109,10016871
+5:  Sole Proprietorship,72,Accommodation and food services,2:   0-4,55300,55344,91222,1326193
+5:  Sole Proprietorship,72,Accommodation and food services,3:   5-9,17653,17713,114906,1171077
+5:  Sole Proprietorship,72,Accommodation and food services,4:   10-19,9946,10057,130724,1387117
+5:  Sole Proprietorship,72,Accommodation and food services,5:   <20,82899,83114,336852,3884387
+5:  Sole Proprietorship,72,Accommodation and food services,6:   20-99,5155,5662,178867,2300761
+5:  Sole Proprietorship,72,Accommodation and food services,7:   100-499,346,1063,55729,853962
+5:  Sole Proprietorship,72,Accommodation and food services,8:   <500,88400,89839,571448,7039110
+5:  Sole Proprietorship,72,Accommodation and food services,9:   500+,92,2672,0,2977761
+5:  Sole Proprietorship,81,Other services (except public administration),1:   Total,87341,87978,248939,4720035
+5:  Sole Proprietorship,81,Other services (except public administration),2:   0-4,73199,73234,124993,2344030
+5:  Sole Proprietorship,81,Other services (except public administration),3:   5-9,10828,10883,67105,1220265
+5:  Sole Proprietorship,81,Other services (except public administration),4:   10-19,2669,2759,33421,605470
+5:  Sole Proprietorship,81,Other services (except public administration),5:   <20,86696,86876,225519,4169765
+5:  Sole Proprietorship,81,Other services (except public administration),6:   20-99,606,792,17952,353193
+5:  Sole Proprietorship,81,Other services (except public administration),7:   100-499,27,117,2615,89145
+5:  Sole Proprietorship,81,Other services (except public administration),8:   <500,87329,87785,246086,4612103
+5:  Sole Proprietorship,81,Other services (except public administration),9:   500+,12,193,2853,107932
+5:  Sole Proprietorship,99,Industries not classified,1:   Total,12902,12902,0,177393
+5:  Sole Proprietorship,99,Industries not classified,2:   0-4,12671,12671,0,160919
+5:  Sole Proprietorship,99,Industries not classified,3:   5-9,180,180,1089,10835
+5:  Sole Proprietorship,99,Industries not classified,4:   10-19,43,43,538,3179
+5:  Sole Proprietorship,99,Industries not classified,5:   <20,12894,12894,0,174933
+5:  Sole Proprietorship,99,Industries not classified,6:   20-99,8,8,227,2460
+5:  Sole Proprietorship,99,Industries not classified,8:   <500,12902,12902,0,177393
+6:  Nonprofit,--,Total,1:   Total,425995,560682,15125777,587797006
+6:  Nonprofit,--,Total,2:   0-4,217889,218107,433123,11094378
+6:  Nonprofit,--,Total,3:   5-9,84136,84711,550808,12470540
+6:  Nonprofit,--,Total,4:   10-19,50637,52724,683939,16710374
+6:  Nonprofit,--,Total,5:   <20,352662,355542,1667870,40275292
+6:  Nonprofit,--,Total,6:   20-99,54624,75457,2282317,65609577
+6:  Nonprofit,--,Total,7:   100-499,14957,66932,3017297,96768986
+6:  Nonprofit,--,Total,8:   <500,422243,497931,6967484,202653855
+6:  Nonprofit,--,Total,9:   500+,3752,62751,8158293,385143151
+6:  Nonprofit,11,"Agriculture, forestry, fishing and hunting",1:   Total,283,337,3991,127378
+6:  Nonprofit,11,"Agriculture, forestry, fishing and hunting",2:   0-4,160,160,273,7021
+6:  Nonprofit,11,"Agriculture, forestry, fishing and hunting",3:   5-9,44,44,284,6305
+6:  Nonprofit,11,"Agriculture, forestry, fishing and hunting",4:   10-19,35,35,447,14707
+6:  Nonprofit,11,"Agriculture, forestry, fishing and hunting",5:   <20,239,239,1004,28033
+6:  Nonprofit,11,"Agriculture, forestry, fishing and hunting",6:   20-99,31,40,1096,35447
+6:  Nonprofit,11,"Agriculture, forestry, fishing and hunting",7:   100-499,10,55,1884,63604
+6:  Nonprofit,11,"Agriculture, forestry, fishing and hunting",8:   <500,280,334,3984,127084
+6:  Nonprofit,11,"Agriculture, forestry, fishing and hunting",9:   500+,3,3,0,0
+6:  Nonprofit,21,"Mining, quarrying, and oil and gas extraction",1:   Total,7,7,0,0
+6:  Nonprofit,21,"Mining, quarrying, and oil and gas extraction",2:   0-4,4,4,0,242
+6:  Nonprofit,21,"Mining, quarrying, and oil and gas extraction",3:   5-9,1,1,0,0
+6:  Nonprofit,21,"Mining, quarrying, and oil and gas extraction",4:   10-19,2,2,0,0
+6:  Nonprofit,21,"Mining, quarrying, and oil and gas extraction",5:   <20,7,7,0,0
+6:  Nonprofit,21,"Mining, quarrying, and oil and gas extraction",8:   <500,7,7,0,0
+6:  Nonprofit,22,Utilities,1:   Total,2606,3750,76557,5111558
+6:  Nonprofit,22,Utilities,2:   0-4,1128,1129,2620,61673
+6:  Nonprofit,22,Utilities,3:   5-9,474,488,3053,116313
+6:  Nonprofit,22,Utilities,4:   10-19,225,248,3221,158570
+6:  Nonprofit,22,Utilities,5:   <20,1827,1865,8894,336556
+6:  Nonprofit,22,Utilities,6:   20-99,596,1012,28848,1802672
+6:  Nonprofit,22,Utilities,7:   100-499,173,677,30566,2133749
+6:  Nonprofit,22,Utilities,8:   <500,2596,3554,68308,4272977
+6:  Nonprofit,22,Utilities,9:   500+,10,196,8249,838581
+6:  Nonprofit,23,Construction,1:   Total,780,790,6929,279413
+6:  Nonprofit,23,Construction,2:   0-4,464,464,826,31036
+6:  Nonprofit,23,Construction,3:   5-9,135,135,896,31577
+6:  Nonprofit,23,Construction,4:   10-19,84,84,1111,41271
+6:  Nonprofit,23,Construction,5:   <20,683,683,2833,103884
+6:  Nonprofit,23,Construction,6:   20-99,74,74,2565,107315
+6:  Nonprofit,23,Construction,7:   100-499,15,25,1424,63933
+6:  Nonprofit,23,Construction,8:   <500,772,782,6822,275132
+6:  Nonprofit,23,Construction,9:   500+,8,8,107,4281
+6:  Nonprofit,31-33,Manufacturing,1:   Total,214,246,14755,465907
+6:  Nonprofit,31-33,Manufacturing,2:   0-4,79,79,124,4688
+6:  Nonprofit,31-33,Manufacturing,3:   5-9,21,21,149,3627
+6:  Nonprofit,31-33,Manufacturing,4:   10-19,14,14,181,5347
+6:  Nonprofit,31-33,Manufacturing,5:   <20,114,114,454,13662
+6:  Nonprofit,31-33,Manufacturing,6:   20-99,40,41,1759,45027
+6:  Nonprofit,31-33,Manufacturing,7:   100-499,42,56,7248,178438
+6:  Nonprofit,31-33,Manufacturing,8:   <500,196,211,9461,237127
+6:  Nonprofit,31-33,Manufacturing,9:   500+,18,35,5294,228780
+6:  Nonprofit,42,Wholesale trade,1:   Total,335,495,5902,206800
+6:  Nonprofit,42,Wholesale trade,2:   0-4,149,149,247,9729
+6:  Nonprofit,42,Wholesale trade,3:   5-9,56,56,363,13525
+6:  Nonprofit,42,Wholesale trade,4:   10-19,34,37,416,10777
+6:  Nonprofit,42,Wholesale trade,5:   <20,239,242,1026,34031
+6:  Nonprofit,42,Wholesale trade,6:   20-99,37,50,1167,39147
+6:  Nonprofit,42,Wholesale trade,7:   100-499,27,78,1309,36841
+6:  Nonprofit,42,Wholesale trade,8:   <500,303,370,3502,110019
+6:  Nonprofit,42,Wholesale trade,9:   500+,32,125,2400,96781
+6:  Nonprofit,44-45,Retail trade,1:   Total,3095,8154,102459,2092310
+6:  Nonprofit,44-45,Retail trade,2:   0-4,1418,1423,2821,60214
+6:  Nonprofit,44-45,Retail trade,3:   5-9,501,521,3283,56556
+6:  Nonprofit,44-45,Retail trade,4:   10-19,310,345,3790,68605
+6:  Nonprofit,44-45,Retail trade,5:   <20,2229,2289,9894,185375
+6:  Nonprofit,44-45,Retail trade,6:   20-99,345,680,9108,190511
+6:  Nonprofit,44-45,Retail trade,7:   100-499,311,1618,23617,445417
+6:  Nonprofit,44-45,Retail trade,8:   <500,2885,4587,42619,821303
+6:  Nonprofit,44-45,Retail trade,9:   500+,210,3567,59840,1271007
+6:  Nonprofit,48-49,Transportation and warehousing,1:   Total,761,1059,23015,781450
+6:  Nonprofit,48-49,Transportation and warehousing,2:   0-4,218,219,385,10293
+6:  Nonprofit,48-49,Transportation and warehousing,3:   5-9,84,84,548,12130
+6:  Nonprofit,48-49,Transportation and warehousing,4:   10-19,79,79,1039,23503
+6:  Nonprofit,48-49,Transportation and warehousing,5:   <20,381,382,1972,45926
+6:  Nonprofit,48-49,Transportation and warehousing,6:   20-99,146,181,5337,133871
+6:  Nonprofit,48-49,Transportation and warehousing,7:   100-499,146,250,6884,188008
+6:  Nonprofit,48-49,Transportation and warehousing,8:   <500,673,813,14193,367805
+6:  Nonprofit,48-49,Transportation and warehousing,9:   500+,88,246,0,0
+6:  Nonprofit,51,Information,1:   Total,4280,5066,89346,3903472
+6:  Nonprofit,51,Information,2:   0-4,1942,1944,4047,104043
+6:  Nonprofit,51,Information,3:   5-9,931,936,6191,162677
+6:  Nonprofit,51,Information,4:   10-19,595,627,7917,226173
+6:  Nonprofit,51,Information,5:   <20,3468,3507,18155,492893
+6:  Nonprofit,51,Information,6:   20-99,596,829,23598,906992
+6:  Nonprofit,51,Information,7:   100-499,123,413,19234,877483
+6:  Nonprofit,51,Information,8:   <500,4187,4749,60987,2277368
+6:  Nonprofit,51,Information,9:   500+,93,317,28359,1626104
+6:  Nonprofit,52,Finance and insurance,1:   Total,7958,19377,321846,16005633
+6:  Nonprofit,52,Finance and insurance,2:   0-4,3024,3034,7153,243381
+6:  Nonprofit,52,Finance and insurance,3:   5-9,1511,1636,9774,359829
+6:  Nonprofit,52,Finance and insurance,4:   10-19,1051,1488,14475,557839
+6:  Nonprofit,52,Finance and insurance,5:   <20,5586,6158,31402,1161049
+6:  Nonprofit,52,Finance and insurance,6:   20-99,1612,4737,71419,2980004
+6:  Nonprofit,52,Finance and insurance,7:   100-499,608,5755,117568,5635625
+6:  Nonprofit,52,Finance and insurance,8:   <500,7806,16650,220389,9776678
+6:  Nonprofit,52,Finance and insurance,9:   500+,152,2727,101457,6228955
+6:  Nonprofit,53,Real estate and rental and leasing,1:   Total,3438,5250,42863,1255454
+6:  Nonprofit,53,Real estate and rental and leasing,2:   0-4,1757,1762,3617,90634
+6:  Nonprofit,53,Real estate and rental and leasing,3:   5-9,646,659,4139,117801
+6:  Nonprofit,53,Real estate and rental and leasing,4:   10-19,343,371,4476,127024
+6:  Nonprofit,53,Real estate and rental and leasing,5:   <20,2746,2792,12232,335459
+6:  Nonprofit,53,Real estate and rental and leasing,6:   20-99,326,509,10101,312956
+6:  Nonprofit,53,Real estate and rental and leasing,7:   100-499,200,807,9782,289694
+6:  Nonprofit,53,Real estate and rental and leasing,8:   <500,3272,4108,32115,938109
+6:  Nonprofit,53,Real estate and rental and leasing,9:   500+,166,1142,10748,317345
+6:  Nonprofit,54,"Professional, scientific, and technical services",1:   Total,6132,8838,242498,16487135
+6:  Nonprofit,54,"Professional, scientific, and technical services",2:   0-4,3015,3019,5580,269181
+6:  Nonprofit,54,"Professional, scientific, and technical services",3:   5-9,1041,1060,6793,324563
+6:  Nonprofit,54,"Professional, scientific, and technical services",4:   10-19,685,746,9149,454065
+6:  Nonprofit,54,"Professional, scientific, and technical services",5:   <20,4741,4825,21522,1047809
+6:  Nonprofit,54,"Professional, scientific, and technical services",6:   20-99,846,1514,33203,1942097
+6:  Nonprofit,54,"Professional, scientific, and technical services",7:   100-499,288,1108,42845,2473386
+6:  Nonprofit,54,"Professional, scientific, and technical services",8:   <500,5875,7447,97570,5463292
+6:  Nonprofit,54,"Professional, scientific, and technical services",9:   500+,257,1391,144928,11023843
+6:  Nonprofit,55,Management of companies and enterprises,1:   Total,2655,3625,299520,18528092
+6:  Nonprofit,55,Management of companies and enterprises,2:   0-4,16,16,0,491
+6:  Nonprofit,55,Management of companies and enterprises,3:   5-9,10,10,25,975
+6:  Nonprofit,55,Management of companies and enterprises,4:   10-19,46,46,256,10987
+6:  Nonprofit,55,Management of companies and enterprises,5:   <20,72,72,305,12453
+6:  Nonprofit,55,Management of companies and enterprises,6:   20-99,451,468,6582,268769
+6:  Nonprofit,55,Management of companies and enterprises,7:   100-499,1251,1423,49112,1955516
+6:  Nonprofit,55,Management of companies and enterprises,8:   <500,1774,1963,55999,2236738
+6:  Nonprofit,55,Management of companies and enterprises,9:   500+,881,1662,243521,16291354
+6:  Nonprofit,56,Administrative and support and waste management and remediation services,1:   Total,5757,6880,113754,4462762
+6:  Nonprofit,56,Administrative and support and waste management and remediation services,2:   0-4,3093,3094,5961,301189
+6:  Nonprofit,56,Administrative and support and waste management and remediation services,3:   5-9,871,876,5627,223846
+6:  Nonprofit,56,Administrative and support and waste management and remediation services,4:   10-19,579,603,7654,290154
+6:  Nonprofit,56,Administrative and support and waste management and remediation services,5:   <20,4543,4573,19242,815189
+6:  Nonprofit,56,Administrative and support and waste management and remediation services,6:   20-99,595,773,21381,878853
+6:  Nonprofit,56,Administrative and support and waste management and remediation services,7:   100-499,327,574,24233,789180
+6:  Nonprofit,56,Administrative and support and waste management and remediation services,8:   <500,5465,5920,64856,2483222
+6:  Nonprofit,56,Administrative and support and waste management and remediation services,9:   500+,292,960,48898,1979540
+6:  Nonprofit,61,Educational services,1:   Total,28444,32124,2557257,89912796
+6:  Nonprofit,61,Educational services,2:   0-4,7962,7976,14421,589711
+6:  Nonprofit,61,Educational services,3:   5-9,3623,3641,24395,652838
+6:  Nonprofit,61,Educational services,4:   10-19,4111,4193,57321,1387761
+6:  Nonprofit,61,Educational services,5:   <20,15696,15810,96137,2630310
+6:  Nonprofit,61,Educational services,6:   20-99,9103,9600,404012,11784906
+6:  Nonprofit,61,Educational services,7:   100-499,2642,4044,467138,16062513
+6:  Nonprofit,61,Educational services,8:   <500,27441,29454,967287,30477729
+6:  Nonprofit,61,Educational services,9:   500+,1003,2670,1589970,59435067
+6:  Nonprofit,62,Health care and social assistance,1:   Total,67655,154510,8044362,343953114
+6:  Nonprofit,62,Health care and social assistance,2:   0-4,20690,20764,41659,1348195
+6:  Nonprofit,62,Health care and social assistance,3:   5-9,10755,10888,72641,1775027
+6:  Nonprofit,62,Health care and social assistance,4:   10-19,10640,11232,146857,3601413
+6:  Nonprofit,62,Health care and social assistance,5:   <20,42085,42884,261157,6724635
+6:  Nonprofit,62,Health care and social assistance,6:   20-99,15069,25785,653697,17691780
+6:  Nonprofit,62,Health care and social assistance,7:   100-499,8083,42956,1632623,47295302
+6:  Nonprofit,62,Health care and social assistance,8:   <500,65237,111625,2547477,71711717
+6:  Nonprofit,62,Health care and social assistance,9:   500+,2418,42885,5496885,272241397
+6:  Nonprofit,71,"Arts, entertainment, and recreation",1:   Total,24058,25846,572448,13624691
+6:  Nonprofit,71,"Arts, entertainment, and recreation",2:   0-4,13176,13190,20522,645282
+6:  Nonprofit,71,"Arts, entertainment, and recreation",3:   5-9,3467,3494,22776,573721
+6:  Nonprofit,71,"Arts, entertainment, and recreation",4:   10-19,2458,2508,33116,823525
+6:  Nonprofit,71,"Arts, entertainment, and recreation",5:   <20,19101,19192,76414,2042528
+6:  Nonprofit,71,"Arts, entertainment, and recreation",6:   20-99,3534,3863,159668,4139271
+6:  Nonprofit,71,"Arts, entertainment, and recreation",7:   100-499,1193,1729,200345,4813526
+6:  Nonprofit,71,"Arts, entertainment, and recreation",8:   <500,23828,24784,436427,10995325
+6:  Nonprofit,71,"Arts, entertainment, and recreation",9:   500+,230,1062,136021,2629366
+6:  Nonprofit,72,Accommodation and food services,1:   Total,3799,4473,54614,1162958
+6:  Nonprofit,72,Accommodation and food services,2:   0-4,1981,1984,3518,84673
+6:  Nonprofit,72,Accommodation and food services,3:   5-9,741,757,4817,90763
+6:  Nonprofit,72,Accommodation and food services,4:   10-19,438,462,5222,92769
+6:  Nonprofit,72,Accommodation and food services,5:   <20,3160,3203,13557,268205
+6:  Nonprofit,72,Accommodation and food services,6:   20-99,349,527,8480,205864
+6:  Nonprofit,72,Accommodation and food services,7:   100-499,173,528,9940,194491
+6:  Nonprofit,72,Accommodation and food services,8:   <500,3682,4258,31977,668560
+6:  Nonprofit,72,Accommodation and food services,9:   500+,117,215,22637,494398
+6:  Nonprofit,81,Other services (except public administration),1:   Total,270141,278605,2551951,69409000
+6:  Nonprofit,81,Other services (except public administration),2:   0-4,156439,156492,317996,7210995
+6:  Nonprofit,81,Other services (except public administration),3:   5-9,59261,59365,384810,7946440
+6:  Nonprofit,81,Other services (except public administration),4:   10-19,29143,29600,387219,8814374
+6:  Nonprofit,81,Other services (except public administration),5:   <20,244843,245457,1090025,23971809
+6:  Nonprofit,81,Other services (except public administration),6:   20-99,22338,24772,840231,22142498
+6:  Nonprofit,81,Other services (except public administration),7:   100-499,2383,4836,371545,13272280
+6:  Nonprofit,81,Other services (except public administration),8:   <500,269564,275065,2301801,59386587
+6:  Nonprofit,81,Other services (except public administration),9:   500+,577,3540,250150,10022413
+6:  Nonprofit,99,Industries not classified,1:   Total,1250,1250,1667,25348
+6:  Nonprofit,99,Industries not classified,2:   0-4,1205,1205,0,21707
+6:  Nonprofit,99,Industries not classified,3:   5-9,39,39,238,1842
+6:  Nonprofit,99,Industries not classified,4:   10-19,4,4,0,0
+6:  Nonprofit,99,Industries not classified,5:   <20,1248,1248,0,23751
+6:  Nonprofit,99,Industries not classified,6:   20-99,2,2,0,0
+6:  Nonprofit,99,Industries not classified,8:   <500,1250,1250,1667,25348
+7:  Government,--,Total,1:   Total,1989,3464,1251137,67137181
+7:  Government,--,Total,2:   0-4,97,98,252,7415
+7:  Government,--,Total,3:   5-9,216,230,1490,25837
+7:  Government,--,Total,4:   10-19,130,175,1730,33698
+7:  Government,--,Total,5:   <20,443,503,3472,66950
+7:  Government,--,Total,6:   20-99,261,550,15290,511567
+7:  Government,--,Total,7:   100-499,730,914,176645,7076032
+7:  Government,--,Total,8:   <500,1434,1967,195407,7654549
+7:  Government,--,Total,9:   500+,555,1497,1055730,59482632
+7:  Government,42,Wholesale trade,1:   Total,21,23,683,45024
+7:  Government,42,Wholesale trade,3:   5-9,1,1,0,0
+7:  Government,42,Wholesale trade,4:   10-19,1,1,0,0
+7:  Government,42,Wholesale trade,5:   <20,2,2,0,0
+7:  Government,42,Wholesale trade,6:   20-99,13,13,0,0
+7:  Government,42,Wholesale trade,7:   100-499,5,6,385,25528
+7:  Government,42,Wholesale trade,8:   <500,20,21,669,44808
+7:  Government,42,Wholesale trade,9:   500+,1,2,0,0
+7:  Government,44-45,Retail trade,1:   Total,446,1694,11127,246418
+7:  Government,44-45,Retail trade,2:   0-4,65,66,196,3897
+7:  Government,44-45,Retail trade,3:   5-9,193,207,1333,20169
+7:  Government,44-45,Retail trade,4:   10-19,104,148,1364,21772
+7:  Government,44-45,Retail trade,5:   <20,362,421,2893,45838
+7:  Government,44-45,Retail trade,6:   20-99,66,339,2458,50002
+7:  Government,44-45,Retail trade,7:   100-499,8,153,0,0
+7:  Government,44-45,Retail trade,8:   <500,436,913,6566,127105
+7:  Government,44-45,Retail trade,9:   500+,10,781,4561,119313
+7:  Government,51,Information,1:   Total,41,41,1013,40608
+7:  Government,51,Information,2:   0-4,3,3,0,0
+7:  Government,51,Information,3:   5-9,5,5,33,1718
+7:  Government,51,Information,4:   10-19,12,12,161,6924
+7:  Government,51,Information,5:   <20,20,20,199,8704
+7:  Government,51,Information,6:   20-99,20,20,673,23993
+7:  Government,51,Information,7:   100-499,1,1,0,0
+7:  Government,51,Information,8:   <500,41,41,1013,40608
+7:  Government,52,Finance and insurance,1:   Total,37,77,17030,1569892
+7:  Government,52,Finance and insurance,2:   0-4,13,13,33,831
+7:  Government,52,Finance and insurance,3:   5-9,7,7,45,1589
+7:  Government,52,Finance and insurance,4:   10-19,3,3,37,1515
+7:  Government,52,Finance and insurance,5:   <20,23,23,115,3935
+7:  Government,52,Finance and insurance,6:   20-99,2,6,0,0
+7:  Government,52,Finance and insurance,7:   100-499,1,4,0,0
+7:  Government,52,Finance and insurance,8:   <500,26,33,0,0
+7:  Government,52,Finance and insurance,9:   500+,11,44,16660,1555002
+7:  Government,62,Health care and social assistance,1:   Total,1225,1307,1068928,60426805
+7:  Government,62,Health care and social assistance,2:   0-4,5,5,0,514
+7:  Government,62,Health care and social assistance,3:   5-9,5,5,35,1826
+7:  Government,62,Health care and social assistance,5:   <20,10,10,40,2340
+7:  Government,62,Health care and social assistance,6:   20-99,131,131,9655,359718
+7:  Government,62,Health care and social assistance,7:   100-499,625,627,148516,6287089
+7:  Government,62,Health care and social assistance,8:   <500,766,768,158211,6649147
+7:  Government,62,Health care and social assistance,9:   500+,459,539,910717,53777658
+7:  Government,71,"Arts, entertainment, and recreation",1:   Total,179,249,70510,2214797
+7:  Government,71,"Arts, entertainment, and recreation",2:   0-4,11,11,0,2111
+7:  Government,71,"Arts, entertainment, and recreation",3:   5-9,5,5,40,485
+7:  Government,71,"Arts, entertainment, and recreation",4:   10-19,10,10,0,3158
+7:  Government,71,"Arts, entertainment, and recreation",5:   <20,26,26,205,5754
+7:  Government,71,"Arts, entertainment, and recreation",6:   20-99,37,39,2030,52570
+7:  Government,71,"Arts, entertainment, and recreation",7:   100-499,73,101,18679,524854
+7:  Government,71,"Arts, entertainment, and recreation",8:   <500,136,166,20914,583178
+7:  Government,71,"Arts, entertainment, and recreation",9:   500+,43,83,49596,1631619
+7:  Government,72,Accommodation and food services,1:   Total,69,73,81846,2593637
+7:  Government,72,Accommodation and food services,4:   10-19,1,1,0,0
+7:  Government,72,Accommodation and food services,5:   <20,1,1,0,0
+7:  Government,72,Accommodation and food services,6:   20-99,2,2,0,0
+7:  Government,72,Accommodation and food services,7:   100-499,22,22,7507,190642
+7:  Government,72,Accommodation and food services,8:   <500,25,25,7664,194813
+7:  Government,72,Accommodation and food services,9:   500+,44,48,74182,2398824
+8:  Other,--,Total,1:   Total,8223,19181,520782,25429852
+8:  Other,--,Total,2:   0-4,3354,3359,6004,194225
+8:  Other,--,Total,3:   5-9,1433,1462,9952,381668
+8:  Other,--,Total,4:   10-19,1186,1355,15662,613123
+8:  Other,--,Total,5:   <20,5973,6176,31618,1189016
+8:  Other,--,Total,6:   20-99,1130,2541,44211,1724194
+8:  Other,--,Total,7:   100-499,592,3179,81288,3606931
+8:  Other,--,Total,8:   <500,7695,11896,157117,6520141
+8:  Other,--,Total,9:   500+,528,7285,363665,18909711
+8:  Other,11,"Agriculture, forestry, fishing and hunting",1:   Total,140,226,4242,169227
+8:  Other,11,"Agriculture, forestry, fishing and hunting",2:   0-4,21,21,0,2174
+8:  Other,11,"Agriculture, forestry, fishing and hunting",3:   5-9,24,24,163,10995
+8:  Other,11,"Agriculture, forestry, fishing and hunting",4:   10-19,27,29,349,16109
+8:  Other,11,"Agriculture, forestry, fishing and hunting",5:   <20,72,74,558,29278
+8:  Other,11,"Agriculture, forestry, fishing and hunting",6:   20-99,28,33,1088,42030
+8:  Other,11,"Agriculture, forestry, fishing and hunting",7:   100-499,31,83,2161,75740
+8:  Other,11,"Agriculture, forestry, fishing and hunting",8:   <500,131,190,3807,147048
+8:  Other,11,"Agriculture, forestry, fishing and hunting",9:   500+,9,36,0,22179
+8:  Other,21,"Mining, quarrying, and oil and gas extraction",1:   Total,12,96,0,0
+8:  Other,21,"Mining, quarrying, and oil and gas extraction",2:   0-4,2,2,0,0
+8:  Other,21,"Mining, quarrying, and oil and gas extraction",3:   5-9,1,1,0,0
+8:  Other,21,"Mining, quarrying, and oil and gas extraction",4:   10-19,1,1,0,0
+8:  Other,21,"Mining, quarrying, and oil and gas extraction",5:   <20,4,4,0,724
+8:  Other,21,"Mining, quarrying, and oil and gas extraction",6:   20-99,2,2,0,0
+8:  Other,21,"Mining, quarrying, and oil and gas extraction",7:   100-499,2,2,0,0
+8:  Other,21,"Mining, quarrying, and oil and gas extraction",8:   <500,8,8,0,0
+8:  Other,21,"Mining, quarrying, and oil and gas extraction",9:   500+,4,88,0,0
+8:  Other,22,Utilities,1:   Total,13,14,134,5388
+8:  Other,22,Utilities,2:   0-4,1,1,0,0
+8:  Other,22,Utilities,3:   5-9,4,4,27,771
+8:  Other,22,Utilities,4:   10-19,1,1,0,0
+8:  Other,22,Utilities,5:   <20,6,6,0,1284
+8:  Other,22,Utilities,6:   20-99,1,1,0,0
+8:  Other,22,Utilities,7:   100-499,3,3,0,0
+8:  Other,22,Utilities,8:   <500,10,10,0,4027
+8:  Other,22,Utilities,9:   500+,3,4,0,1361
+8:  Other,23,Construction,1:   Total,111,113,1099,59102
+8:  Other,23,Construction,2:   0-4,73,73,50,1939
+8:  Other,23,Construction,3:   5-9,10,10,58,1546
+8:  Other,23,Construction,4:   10-19,5,5,68,2588
+8:  Other,23,Construction,5:   <20,88,88,176,6073
+8:  Other,23,Construction,6:   20-99,6,6,118,5365
+8:  Other,23,Construction,7:   100-499,5,5,44,2484
+8:  Other,23,Construction,8:   <500,99,99,338,13922
+8:  Other,23,Construction,9:   500+,12,14,761,45180
+8:  Other,31-33,Manufacturing,1:   Total,288,934,62355,3133640
+8:  Other,31-33,Manufacturing,2:   0-4,34,34,57,2349
+8:  Other,31-33,Manufacturing,3:   5-9,21,22,136,3567
+8:  Other,31-33,Manufacturing,4:   10-19,25,25,320,11408
+8:  Other,31-33,Manufacturing,5:   <20,80,81,513,17324
+8:  Other,31-33,Manufacturing,6:   20-99,67,71,2947,129282
+8:  Other,31-33,Manufacturing,7:   100-499,60,91,7161,314953
+8:  Other,31-33,Manufacturing,8:   <500,207,243,10621,461559
+8:  Other,31-33,Manufacturing,9:   500+,81,691,51734,2672081
+8:  Other,42,Wholesale trade,1:   Total,1094,3758,67855,3274040
+8:  Other,42,Wholesale trade,2:   0-4,143,144,327,15146
+8:  Other,42,Wholesale trade,3:   5-9,163,175,1080,48275
+8:  Other,42,Wholesale trade,4:   10-19,185,265,2365,114545
+8:  Other,42,Wholesale trade,5:   <20,491,584,3772,177966
+8:  Other,42,Wholesale trade,6:   20-99,351,942,12336,588828
+8:  Other,42,Wholesale trade,7:   100-499,179,1289,21413,990999
+8:  Other,42,Wholesale trade,8:   <500,1021,2815,37521,1757793
+8:  Other,42,Wholesale trade,9:   500+,73,943,30334,1516247
+8:  Other,44-45,Retail trade,1:   Total,1189,4242,67692,1845061
+8:  Other,44-45,Retail trade,2:   0-4,205,206,347,9337
+8:  Other,44-45,Retail trade,3:   5-9,143,149,955,27246
+8:  Other,44-45,Retail trade,4:   10-19,192,228,2522,71922
+8:  Other,44-45,Retail trade,5:   <20,540,583,3824,108505
+8:  Other,44-45,Retail trade,6:   20-99,408,896,14076,402148
+8:  Other,44-45,Retail trade,7:   100-499,180,895,16843,495820
+8:  Other,44-45,Retail trade,8:   <500,1128,2374,34743,1006473
+8:  Other,44-45,Retail trade,9:   500+,61,1868,32949,838588
+8:  Other,48-49,Transportation and warehousing,1:   Total,127,237,6093,265036
+8:  Other,48-49,Transportation and warehousing,2:   0-4,33,33,57,1572
+8:  Other,48-49,Transportation and warehousing,3:   5-9,11,11,66,2592
+8:  Other,48-49,Transportation and warehousing,4:   10-19,12,13,169,6571
+8:  Other,48-49,Transportation and warehousing,5:   <20,56,57,292,10735
+8:  Other,48-49,Transportation and warehousing,6:   20-99,15,32,282,10773
+8:  Other,48-49,Transportation and warehousing,7:   100-499,22,39,1280,43031
+8:  Other,48-49,Transportation and warehousing,8:   <500,93,128,1854,64539
+8:  Other,48-49,Transportation and warehousing,9:   500+,34,109,4239,200497
+8:  Other,51,Information,1:   Total,60,244,8446,499199
+8:  Other,51,Information,2:   0-4,13,13,18,654
+8:  Other,51,Information,3:   5-9,5,5,0,0
+8:  Other,51,Information,4:   10-19,2,2,0,0
+8:  Other,51,Information,5:   <20,20,20,0,0
+8:  Other,51,Information,6:   20-99,7,11,205,8217
+8:  Other,51,Information,7:   100-499,15,17,501,29175
+8:  Other,51,Information,8:   <500,42,48,782,40459
+8:  Other,51,Information,9:   500+,18,196,7664,458740
+8:  Other,52,Finance and insurance,1:   Total,281,1675,47367,3823465
+8:  Other,52,Finance and insurance,2:   0-4,89,89,174,7037
+8:  Other,52,Finance and insurance,3:   5-9,38,44,237,8176
+8:  Other,52,Finance and insurance,4:   10-19,29,47,420,18254
+8:  Other,52,Finance and insurance,5:   <20,156,180,831,33467
+8:  Other,52,Finance and insurance,6:   20-99,50,104,1810,91421
+8:  Other,52,Finance and insurance,7:   100-499,35,193,3621,200589
+8:  Other,52,Finance and insurance,8:   <500,241,477,6262,325477
+8:  Other,52,Finance and insurance,9:   500+,40,1198,41105,3497988
+8:  Other,53,Real estate and rental and leasing,1:   Total,1286,1593,10726,430454
+8:  Other,53,Real estate and rental and leasing,2:   0-4,803,805,1382,41240
+8:  Other,53,Real estate and rental and leasing,3:   5-9,215,215,1538,63871
+8:  Other,53,Real estate and rental and leasing,4:   10-19,124,135,1513,67396
+8:  Other,53,Real estate and rental and leasing,5:   <20,1142,1155,4433,172507
+8:  Other,53,Real estate and rental and leasing,6:   20-99,60,81,1605,67309
+8:  Other,53,Real estate and rental and leasing,7:   100-499,44,155,1270,51797
+8:  Other,53,Real estate and rental and leasing,8:   <500,1246,1391,7308,291613
+8:  Other,53,Real estate and rental and leasing,9:   500+,40,202,3418,138841
+8:  Other,54,"Professional, scientific, and technical services",1:   Total,208,257,3909,268913
+8:  Other,54,"Professional, scientific, and technical services",2:   0-4,112,112,0,5151
+8:  Other,54,"Professional, scientific, and technical services",3:   5-9,17,17,111,7106
+8:  Other,54,"Professional, scientific, and technical services",4:   10-19,11,11,129,6861
+8:  Other,54,"Professional, scientific, and technical services",5:   <20,140,140,384,19118
+8:  Other,54,"Professional, scientific, and technical services",6:   20-99,14,18,332,15037
+8:  Other,54,"Professional, scientific, and technical services",7:   100-499,19,27,951,51016
+8:  Other,54,"Professional, scientific, and technical services",8:   <500,173,185,1667,85171
+8:  Other,54,"Professional, scientific, and technical services",9:   500+,35,72,2242,183742
+8:  Other,55,Management of companies and enterprises,1:   Total,169,366,16974,1587275
+8:  Other,55,Management of companies and enterprises,3:   5-9,1,1,0,0
+8:  Other,55,Management of companies and enterprises,4:   10-19,3,3,0,911
+8:  Other,55,Management of companies and enterprises,5:   <20,4,4,21,1139
+8:  Other,55,Management of companies and enterprises,6:   20-99,32,32,296,22629
+8:  Other,55,Management of companies and enterprises,7:   100-499,65,77,1620,105685
+8:  Other,55,Management of companies and enterprises,8:   <500,101,113,1937,129453
+8:  Other,55,Management of companies and enterprises,9:   500+,68,253,15037,1457822
+8:  Other,56,Administrative and support and waste management and remediation services,1:   Total,128,226,4311,180898
+8:  Other,56,Administrative and support and waste management and remediation services,2:   0-4,65,65,74,3381
+8:  Other,56,Administrative and support and waste management and remediation services,3:   5-9,7,7,0,1973
+8:  Other,56,Administrative and support and waste management and remediation services,4:   10-19,8,8,99,2571
+8:  Other,56,Administrative and support and waste management and remediation services,5:   <20,80,80,209,7925
+8:  Other,56,Administrative and support and waste management and remediation services,6:   20-99,11,14,429,24592
+8:  Other,56,Administrative and support and waste management and remediation services,7:   100-499,14,16,0,0
+8:  Other,56,Administrative and support and waste management and remediation services,8:   <500,105,110,1372,70891
+8:  Other,56,Administrative and support and waste management and remediation services,9:   500+,23,116,2939,110007
+8:  Other,61,Educational services,1:   Total,40,52,1649,51934
+8:  Other,61,Educational services,2:   0-4,12,12,13,189
+8:  Other,61,Educational services,3:   5-9,1,1,0,0
+8:  Other,61,Educational services,4:   10-19,6,7,81,2112
+8:  Other,61,Educational services,5:   <20,19,20,103,2322
+8:  Other,61,Educational services,6:   20-99,12,12,425,12591
+8:  Other,61,Educational services,7:   100-499,5,15,851,27883
+8:  Other,61,Educational services,8:   <500,36,47,1379,42796
+8:  Other,61,Educational services,9:   500+,4,5,0,0
+8:  Other,62,Health care and social assistance,1:   Total,396,1300,171402,8426135
+8:  Other,62,Health care and social assistance,2:   0-4,104,104,217,5776
+8:  Other,62,Health care and social assistance,3:   5-9,30,30,195,4229
+8:  Other,62,Health care and social assistance,4:   10-19,21,21,283,6943
+8:  Other,62,Health care and social assistance,5:   <20,155,155,695,16948
+8:  Other,62,Health care and social assistance,6:   20-99,22,25,1354,60927
+8:  Other,62,Health care and social assistance,7:   100-499,83,103,16653,956941
+8:  Other,62,Health care and social assistance,8:   <500,260,283,18702,1034816
+8:  Other,62,Health care and social assistance,9:   500+,136,1017,152700,7391319
+8:  Other,71,"Arts, entertainment, and recreation",1:   Total,59,87,2670,50362
+8:  Other,71,"Arts, entertainment, and recreation",2:   0-4,23,23,0,411
+8:  Other,71,"Arts, entertainment, and recreation",3:   5-9,5,5,33,408
+8:  Other,71,"Arts, entertainment, and recreation",4:   10-19,7,7,99,1417
+8:  Other,71,"Arts, entertainment, and recreation",5:   <20,35,35,150,2236
+8:  Other,71,"Arts, entertainment, and recreation",6:   20-99,9,9,165,2191
+8:  Other,71,"Arts, entertainment, and recreation",7:   100-499,7,13,797,17566
+8:  Other,71,"Arts, entertainment, and recreation",8:   <500,51,57,1112,21993
+8:  Other,71,"Arts, entertainment, and recreation",9:   500+,8,30,1558,28369
+8:  Other,72,Accommodation and food services,1:   Total,245,558,16219,266682
+8:  Other,72,Accommodation and food services,2:   0-4,99,99,119,2779
+8:  Other,72,Accommodation and food services,3:   5-9,20,20,131,1549
+8:  Other,72,Accommodation and food services,4:   10-19,17,17,221,2129
+8:  Other,72,Accommodation and food services,5:   <20,136,136,471,6457
+8:  Other,72,Accommodation and food services,6:   20-99,21,24,653,16629
+8:  Other,72,Accommodation and food services,7:   100-499,36,66,1859,32951
+8:  Other,72,Accommodation and food services,8:   <500,193,226,2983,56037
+8:  Other,72,Accommodation and food services,9:   500+,52,332,13236,210645
+8:  Other,81,Other services (except public administration),1:   Total,3004,3180,25669,983697
+8:  Other,81,Other services (except public administration),2:   0-4,1502,1502,2942,94381
+8:  Other,81,Other services (except public administration),3:   5-9,720,720,5125,197965
+8:  Other,81,Other services (except public administration),4:   10-19,529,529,6959,278832
+8:  Other,81,Other services (except public administration),5:   <20,2751,2751,15026,571178
+8:  Other,81,Other services (except public administration),6:   20-99,202,228,5954,216503
+8:  Other,81,Other services (except public administration),7:   100-499,33,90,3346,157071
+8:  Other,81,Other services (except public administration),8:   <500,2986,3069,24326,944752
+8:  Other,81,Other services (except public administration),9:   500+,18,111,1343,38945
+8:  Other,99,Industries not classified,1:   Total,23,23,0,763
+8:  Other,99,Industries not classified,2:   0-4,21,21,12,471
+8:  Other,99,Industries not classified,3:   5-9,1,1,0,0
+8:  Other,99,Industries not classified,4:   10-19,1,1,0,0
+8:  Other,99,Industries not classified,5:   <20,23,23,0,763
+8:  Other,99,Industries not classified,8:   <500,23,23,0,763
