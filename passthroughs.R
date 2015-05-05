@@ -7,7 +7,7 @@
 
   # Sets the working directory.
   
-    setwd("U:/Documents backup 2-3/GitHub/passthroughs")
+    setwd("C:/Users/kep/Documents/GitHub/Passthrough-businesses")
   
   #Clears all datasets and variables from memory
   
